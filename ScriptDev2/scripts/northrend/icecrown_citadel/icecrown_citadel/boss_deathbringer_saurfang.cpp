@@ -15,10 +15,158 @@
  */
 
 /* ScriptData
-SDName: boss_deathbringer_saurfang
-SD%Complete: 0%
-SDComment:
+SDName: Boss_Saurfang
+SD%Complete: 0
+SDComment: Written by K
 SDCategory: Icecrown Citadel
 EndScriptData */
 
 #include "precompiled.h"
+#include "icecrown_citadel.h"
+
+enum
+{
+    SAY_AGGRO           = -1631100,
+    SAY_FALLENCHAMPION  = -1631101,
+    SAY_BLOODBEASTS     = -1631102,
+    SAY_KILL1           = -1631103,
+    SAY_KILL2           = -1631104,
+    SAY_BERSERK         = -1631105,
+    SAY_DEATH           = -1631106,
+
+    BLOOD_LINK          = 72178,
+    FALLEN_CHAMPION     = 72293,
+    FRENZY              = 72737,
+    BOILING_BLOOD       = 72385,
+    BLOOD_NOVA          = 72380,
+    RUNE_OF_BLOOD       = 72408,
+    BLOOD_BEAST         = 72173,
+};
+
+struct MANGOS_DLL_DECL boss_saurfangAI : public ScriptedAI
+{
+    boss_saurfangAI(Creature* pCreature) : ScriptedAI(pCreature)
+    {
+        m_pInstance = (ScriptedInstance*)pCreature->GetInstanceData();
+        m_bIsRegularMode = pCreature->GetMap()->IsRegularDifficulty();
+        Reset();
+    }
+
+    ScriptedInstance* m_pInstance;
+    bool m_bIsRegularMode;
+
+    uint32 BloodBeast_Timer;
+    uint32 RuneOfBlood_Timer;
+    uint32 BoilingBlood_Timer;
+    uint32 BloodNova_Timer;
+
+    void Reset()
+    {
+        BloodBeast_Timer = 40000;
+        RuneOfBlood_Timer = 30000;
+        BoilingBlood_Timer = 60000;
+        BloodNova_Timer = 15000;
+    }
+
+    void Aggro(Unit* pWho)
+    {
+        if (m_pInstance)
+            m_pInstance->SetData(TYPE_SAURFANG, IN_PROGRESS);
+
+        DoScriptText(SAY_AGGRO, m_creature);
+    }
+
+    void JustDied(Unit* pKiller)
+    {
+        if (m_pInstance)
+            m_pInstance->SetData(TYPE_SAURFANG, DONE);
+
+        DoScriptText(SAY_DEATH, m_creature);
+    }
+
+    void JustReachedHome()
+    {
+        if (m_pInstance)
+            m_pInstance->SetData(TYPE_SAURFANG, FAIL);
+    }
+
+    void KilledUnit(Unit* pVictim)
+    {
+        switch(urand(0, 1))
+        {
+            case 0: DoScriptText(SAY_KILL1, m_creature); break;
+            case 1: DoScriptText(SAY_KILL2, m_creature); break;
+        }
+    }
+
+    void UpdateAI(const uint32 uiDiff)
+    {
+        if (!m_creature->SelectHostileTarget() || !m_creature->getVictim())
+            return;
+
+        if (!m_creature->HasAura(BLOOD_LINK))
+            DoCastSpellIfCan(m_creature, BLOOD_LINK);
+
+        if ((m_creature->GetHealth()*100 / m_creature->GetMaxHealth() < 30) && (!m_creature->HasAura(FRENZY)))
+            DoCastSpellIfCan(m_creature, FRENZY);
+
+        /*
+        if (m_creature->GetPower(m_creature->getPowerType()) == m_creature->GetMaxPower(m_creature->getPowerType()))
+        {
+            DoScriptText(SAY_FALLENCHAMPION, m_creature);
+
+            if (Unit* target = SelectUnit(SELECT_TARGET_RANDOM,0))
+                DoCastSpellIfCan(target, FALLEN_CHAMPION);
+            m_creature->SetPower(m_creature->getPowerType(),0);
+        }
+        */
+
+        if (BloodBeast_Timer < uiDiff)
+        {
+            DoScriptText(SAY_BLOODBEASTS, m_creature);
+
+            DoCastSpellIfCan(m_creature, BLOOD_BEAST);
+            BloodBeast_Timer = 40000;
+        }
+        else BloodBeast_Timer -= uiDiff;
+
+        if (RuneOfBlood_Timer < uiDiff)
+        {
+            DoCastSpellIfCan(m_creature->getVictim(), RUNE_OF_BLOOD);
+            RuneOfBlood_Timer = 30000;
+        }
+        else RuneOfBlood_Timer -= uiDiff;
+
+        if (BoilingBlood_Timer < uiDiff)
+        {
+            if (Unit* pTarget = m_creature->SelectRandomUnfriendlyTarget())
+                DoCastSpellIfCan(pTarget, BOILING_BLOOD);
+            BoilingBlood_Timer = 60000;
+        }
+        else BoilingBlood_Timer -= uiDiff;
+
+        if (BloodNova_Timer < uiDiff)
+        {
+            if (Unit* pTarget = m_creature->SelectRandomUnfriendlyTarget())
+                DoCastSpellIfCan(pTarget, BLOOD_NOVA);
+            BloodNova_Timer = 15000;
+        }
+        else BloodNova_Timer -= uiDiff;
+
+        DoMeleeAttackIfReady();
+    }
+};
+
+CreatureAI* GetAI_boss_saurfang(Creature* pCreature)
+{
+    return new boss_saurfangAI(pCreature);
+}
+
+void AddSC_boss_saurfang()
+{
+    Script* NewScript;
+    NewScript = new Script;
+    NewScript->Name = "boss_saurfang";
+    NewScript->GetAI = &GetAI_boss_saurfang;
+    NewScript->RegisterSelf();
+}
