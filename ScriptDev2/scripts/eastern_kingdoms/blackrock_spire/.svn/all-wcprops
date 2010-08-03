@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/scriptdev2/!svn/ver/1704/scripts/eastern_kingdoms/blackrock_spire
+/svnroot/scriptdev2/!svn/ver/1755/scripts/eastern_kingdoms/blackrock_spire
 END
 boss_gyth.cpp
 K 25
@@ -19,7 +19,7 @@ instance_blackrock_spire.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/svnroot/scriptdev2/!svn/ver/1704/scripts/eastern_kingdoms/blackrock_spire/instance_blackrock_spire.cpp
+/svnroot/scriptdev2/!svn/ver/1755/scripts/eastern_kingdoms/blackrock_spire/instance_blackrock_spire.cpp
 END
 blackrock_spire.h
 K 25

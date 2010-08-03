@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1740/scripts/kalimdor/temple_of_ahnqiraj
+/svnroot/scriptdev2/!svn/ver/1756/scripts/kalimdor/temple_of_ahnqiraj
 END
 boss_viscidus.cpp
 K 25
@@ -55,7 +55,7 @@ boss_ouro.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/scriptdev2/!svn/ver/1683/scripts/kalimdor/temple_of_ahnqiraj/boss_ouro.cpp
+/svnroot/scriptdev2/!svn/ver/1756/scripts/kalimdor/temple_of_ahnqiraj/boss_ouro.cpp
 END
 instance_temple_of_ahnqiraj.cpp
 K 25

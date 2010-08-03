@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/svnroot/scriptdev2/!svn/ver/1739/include
+/svnroot/scriptdev2/!svn/ver/1753/include
 END
 sc_gossip.h
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/svnroot/scriptdev2/!svn/ver/1537/include/sc_gossip.h
+/svnroot/scriptdev2/!svn/ver/1753/include/sc_gossip.h
 END
 sc_grid_searchers.h
 K 25

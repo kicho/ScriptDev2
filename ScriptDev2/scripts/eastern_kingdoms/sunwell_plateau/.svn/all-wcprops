@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/sunwell_plateau
+/svnroot/scriptdev2/!svn/ver/1755/scripts/eastern_kingdoms/sunwell_plateau
 END
 boss_kalecgos.cpp
 K 25
@@ -13,7 +13,7 @@ boss_brutallus.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/sunwell_plateau/boss_brutallus.cpp
+/svnroot/scriptdev2/!svn/ver/1755/scripts/eastern_kingdoms/sunwell_plateau/boss_brutallus.cpp
 END
 instance_sunwell_plateau.cpp
 K 25

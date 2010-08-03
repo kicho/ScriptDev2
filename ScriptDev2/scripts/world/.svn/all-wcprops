@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svnroot/scriptdev2/!svn/ver/1749/scripts/world
+/svnroot/scriptdev2/!svn/ver/1756/scripts/world
 END
 boss_lethon.cpp
 K 25
@@ -13,7 +13,7 @@ areatrigger_scripts.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/scriptdev2/!svn/ver/1691/scripts/world/areatrigger_scripts.cpp
+/svnroot/scriptdev2/!svn/ver/1755/scripts/world/areatrigger_scripts.cpp
 END
 mob_generic_creature.cpp
 K 25
@@ -25,7 +25,7 @@ npcs_special.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/scriptdev2/!svn/ver/1749/scripts/world/npcs_special.cpp
+/svnroot/scriptdev2/!svn/ver/1756/scripts/world/npcs_special.cpp
 END
 boss_taerar.cpp
 K 25

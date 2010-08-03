@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/scriptdev2/!svn/ver/1746/scripts/eastern_kingdoms/blackrock_depths
+/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/blackrock_depths
 END
 boss_ambassador_flamelash.cpp
 K 25
@@ -25,7 +25,7 @@ blackrock_depths.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1746/scripts/eastern_kingdoms/blackrock_depths/blackrock_depths.cpp
+/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/blackrock_depths/blackrock_depths.cpp
 END
 boss_general_angerforge.cpp
 K 25

@@ -1,7 +1,7 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/zulgurub
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
@@ -25,40 +25,6 @@ nofantasy
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
-
-boss_thekal.cpp
-file
-
-
-
-
-2010-07-31T09:06:00.584598Z
-4574cc37d00883dc0daeefcb093f94e4
-2010-05-04T12:17:06.920751Z
-1683
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18325
 
 boss_hazzarah.cpp
 file
@@ -94,6 +60,40 @@ has-props
 
 3216
 
+boss_thekal.cpp
+file
+
+
+
+
+2010-07-31T09:06:00.584598Z
+4574cc37d00883dc0daeefcb093f94e4
+2010-05-04T12:17:06.920751Z
+1683
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18325
+
 boss_jeklik.cpp
 file
 
@@ -128,40 +128,6 @@ has-props
 
 9872
 
-instance_zulgurub.cpp
-file
-
-
-
-
-2010-07-31T09:06:00.631483Z
-01f6ffba5fd18a9bbc57ae5cc6bb5b41
-2010-01-01T23:51:11.692998Z
-1537
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7574
-
 boss_grilek.cpp
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 2810
+
+instance_zulgurub.cpp
+file
+
+
+
+
+2010-07-31T09:06:00.631483Z
+01f6ffba5fd18a9bbc57ae5cc6bb5b41
+2010-01-01T23:51:11.692998Z
+1537
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7574
 
 boss_arlokk.cpp
 file
@@ -298,40 +298,6 @@ has-props
 
 8576
 
-zulgurub.h
-file
-
-
-
-
-2010-07-31T09:06:00.647112Z
-542b8b816153be9203f026bea3135985
-2010-01-01T23:51:11.692998Z
-1537
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1000
-
 boss_renataki.cpp
 file
 
@@ -365,6 +331,40 @@ has-props
 
 
 4699
+
+zulgurub.h
+file
+
+
+
+
+2010-07-31T09:06:00.647112Z
+542b8b816153be9203f026bea3135985
+2010-01-01T23:51:11.692998Z
+1537
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000
 
 boss_hakkar.cpp
 file
@@ -434,40 +434,6 @@ has-props
 
 10550
 
-boss_marli.cpp
-file
-
-
-
-
-2010-07-31T09:06:00.678368Z
-abba215fe3b20a3530edc4fa4927259d
-2010-05-04T12:17:06.920751Z
-1683
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12473
-
 boss_mandokir.cpp
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 12887
+
+boss_marli.cpp
+file
+
+
+
+
+2010-07-31T09:06:00.678368Z
+abba215fe3b20a3530edc4fa4927259d
+2010-05-04T12:17:06.920751Z
+1683
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12473
 
 boss_gahzranka.cpp
 file

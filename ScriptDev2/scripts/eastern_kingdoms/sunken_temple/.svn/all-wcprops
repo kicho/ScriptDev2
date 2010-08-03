@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/scriptdev2/!svn/ver/1701/scripts/eastern_kingdoms/sunken_temple
+/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/sunken_temple
 END
 sunken_temple.h
 K 25
@@ -13,7 +13,7 @@ sunken_temple.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/svnroot/scriptdev2/!svn/ver/1572/scripts/eastern_kingdoms/sunken_temple/sunken_temple.cpp
+/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/sunken_temple/sunken_temple.cpp
 END
 instance_sunken_temple.cpp
 K 25

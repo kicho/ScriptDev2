@@ -1,15 +1,15 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/shadowfang_keep
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-21T23:40:47.596206Z
-1748
-deverend
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:06:00.881536Z
-d1e96501fa8ef58d7c328ccb93121c90
-2010-07-21T23:40:47.596206Z
-1748
-deverend
+2010-08-03T19:07:46.890625Z
+9e60d02db317114333caee652f8580c2
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-29099
+29057
 
 instance_shadowfang_keep.cpp
 file

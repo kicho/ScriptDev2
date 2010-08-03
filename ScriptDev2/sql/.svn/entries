@@ -1,14 +1,14 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-30T19:20:41.048824Z
-1750
+2010-08-01T21:19:45.349364Z
+1754
 nofantasy
 
 
@@ -72,10 +72,10 @@ file
 
 
 
-2010-07-31T09:06:48.610364Z
-45b704a333237fdc9741487012834476
-2010-07-11T09:07:09.501390Z
-1741
+2010-08-03T19:07:51.921875Z
+7303056034e6bc07c36ad69398c85bad
+2010-08-01T21:19:45.349364Z
+1754
 nofantasy
 has-props
 
@@ -98,7 +98,7 @@ has-props
 
 
 
-76482
+76835
 
 scriptdev2_script_full.sql
 file
@@ -106,10 +106,10 @@ file
 
 
 
-2010-07-31T09:06:48.625993Z
-7f01da273ad60172e268367e8295dffe
-2010-07-30T19:20:41.048824Z
-1750
+2010-08-03T19:07:51.953125Z
+a8ca51666b7d5c7473490ad0b504026d
+2010-08-01T21:19:45.349364Z
+1754
 nofantasy
 has-props
 
@@ -132,7 +132,7 @@ has-props
 
 
 
-324132
+324637
 
 scriptdev2_create_database.sql
 file
@@ -174,10 +174,10 @@ file
 
 
 
-2010-07-31T09:06:48.641621Z
-141276a39bbc6dbd3fd22b109ecfd078
-2009-04-19T12:00:27.784290Z
-1015
+2010-08-03T19:07:52.078125Z
+d2d50d5101b4c807b89be3468ac34e32
+2010-08-01T19:22:24.839910Z
+1753
 nofantasy
 has-props
 
@@ -200,7 +200,7 @@ has-props
 
 
 
-2110
+2566
 
 scriptdev2_create_structure_pgsql.sql
 file
@@ -208,10 +208,10 @@ file
 
 
 
-2010-07-31T09:06:48.657249Z
-4595fba6b5260c283ec118e4740bee27
-2009-04-19T12:00:27.784290Z
-1015
+2010-08-03T19:07:52.109375Z
+5e10701db00dd0bdc80e4b9674e8eb30
+2010-08-01T19:22:24.839910Z
+1753
 nofantasy
 has-props
 
@@ -234,7 +234,7 @@ has-props
 
 
 
-1491
+1825
 
 old
 dir

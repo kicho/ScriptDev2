@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 37
-/svnroot/scriptdev2/!svn/ver/1750/sql
+/svnroot/scriptdev2/!svn/ver/1754/sql
 END
 Makefile.am
 K 25
@@ -13,13 +13,13 @@ mangos_scriptname_full.sql
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/scriptdev2/!svn/ver/1741/sql/mangos_scriptname_full.sql
+/svnroot/scriptdev2/!svn/ver/1754/sql/mangos_scriptname_full.sql
 END
 scriptdev2_script_full.sql
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/scriptdev2/!svn/ver/1750/sql/scriptdev2_script_full.sql
+/svnroot/scriptdev2/!svn/ver/1754/sql/scriptdev2_script_full.sql
 END
 scriptdev2_create_database.sql
 K 25
@@ -31,11 +31,11 @@ scriptdev2_create_structure_mysql.sql
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/scriptdev2/!svn/ver/1015/sql/scriptdev2_create_structure_mysql.sql
+/svnroot/scriptdev2/!svn/ver/1753/sql/scriptdev2_create_structure_mysql.sql
 END
 scriptdev2_create_structure_pgsql.sql
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/scriptdev2/!svn/ver/1015/sql/scriptdev2_create_structure_pgsql.sql
+/svnroot/scriptdev2/!svn/ver/1753/sql/scriptdev2_create_structure_pgsql.sql
 END

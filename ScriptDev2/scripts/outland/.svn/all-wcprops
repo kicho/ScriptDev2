@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland
+/svnroot/scriptdev2/!svn/ver/1756/scripts/outland
 END
 boss_doomlord_kazzak.cpp
 K 25
@@ -31,7 +31,7 @@ netherstorm.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland/netherstorm.cpp
+/svnroot/scriptdev2/!svn/ver/1755/scripts/outland/netherstorm.cpp
 END
 boss_doomwalker.cpp
 K 25
@@ -43,7 +43,7 @@ shadowmoon_valley.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland/shadowmoon_valley.cpp
+/svnroot/scriptdev2/!svn/ver/1756/scripts/outland/shadowmoon_valley.cpp
 END
 shattrath_city.cpp
 K 25
@@ -61,5 +61,5 @@ zangarmarsh.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland/zangarmarsh.cpp
+/svnroot/scriptdev2/!svn/ver/1752/scripts/outland/zangarmarsh.cpp
 END

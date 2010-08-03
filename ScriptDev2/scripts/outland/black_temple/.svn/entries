@@ -1,15 +1,15 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/black_temple
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-19T12:51:34.474094Z
-1743
-nurri
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2010-07-31T09:05:56.255559Z
-821addfc7f707cc8f2f6c80221a56a18
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-03T19:07:43.515625Z
+c2a483a9cb7997bbdd73d81f564b199e
+2010-08-02T22:51:04.264805Z
+1756
 nofantasy
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-95364
+95347
 
 boss_mother_shahraz.cpp
 file
@@ -304,11 +304,11 @@ file
 
 
 
-2010-07-31T09:05:56.333701Z
-9f167007db1293c01c3173898eb73389
-2010-02-24T17:25:52.394755Z
-1601
-deverend
+2010-08-03T19:07:43.640625Z
+210b7f16872b804ff9464d6c2227e585
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 has-props
 
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-31393
+31379
 
 boss_supremus.cpp
 file

@@ -1,15 +1,15 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/kalimdor/caverns_of_time/old_hillsbrad
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-21T23:33:34.158002Z
-1747
-deverend
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:05:48.847745Z
-ad3df87e50fa9630f9648b99d06db386
-2010-07-21T23:33:34.158002Z
-1747
-deverend
+2010-08-03T19:07:39.562500Z
+022e5af95cd0dfbb43fdaa247f61d742
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-27777
+27763
 
 boss_captain_skarloc.cpp
 file

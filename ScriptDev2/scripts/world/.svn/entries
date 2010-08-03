@@ -1,15 +1,15 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/world
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-22T00:22:17.494193Z
-1749
-deverend
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-07-31T09:06:00.006351Z
-7fd3eca6daf828996c095e3e0503d73e
-2010-05-14T19:00:50.118267Z
-1691
-deverend
+2010-08-03T19:07:45.781250Z
+658970851d7aaefcc48875f6710b9e06
+2010-08-02T06:20:23.437446Z
+1755
+nofantasy
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-7423
+7465
 
 mob_generic_creature.cpp
 file
@@ -134,33 +134,12 @@ file
 
 
 
-2010-07-31T09:06:00.053236Z
-0fab15d3ddb90a83e603dc1706ae0eee
-2010-07-22T00:22:17.494193Z
-1749
-deverend
+
+5bf87b737d181562f7afeb7402335fd1
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-73373
 
 boss_taerar.cpp
 file

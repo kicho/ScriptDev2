@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/scriptdev2/!svn/ver/1736/scripts/northrend/utgarde_keep/utgarde_pinnacle
+/svnroot/scriptdev2/!svn/ver/1755/scripts/northrend/utgarde_keep/utgarde_pinnacle
 END
 boss_skadi.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/utgarde_keep/utgarde_pinnacle/boss_skadi.cpp
+/svnroot/scriptdev2/!svn/ver/1755/scripts/northrend/utgarde_keep/utgarde_pinnacle/boss_skadi.cpp
 END
 boss_ymiron.cpp
 K 25
@@ -37,5 +37,5 @@ boss_svala.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1736/scripts/northrend/utgarde_keep/utgarde_pinnacle/boss_svala.cpp
+/svnroot/scriptdev2/!svn/ver/1755/scripts/northrend/utgarde_keep/utgarde_pinnacle/boss_svala.cpp
 END

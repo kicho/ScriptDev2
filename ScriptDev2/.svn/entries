@@ -1,14 +1,14 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-30T19:20:41.048824Z
-1750
+2010-08-02T22:51:04.264805Z
+1756
 nofantasy
 has-props
 
@@ -25,6 +25,9 @@ has-props
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
+
+VC80
+dir
 
 scriptdev2.conf.dist.in
 file
@@ -60,9 +63,6 @@ has-props
 
 681
 
-VC80
-dir
-
 VC90
 dir
 
@@ -72,10 +72,10 @@ dir
 system
 dir
 
-patches
+scripts
 dir
 
-scripts
+patches
 dir
 
 docs
@@ -83,6 +83,40 @@ dir
 
 VC100
 dir
+
+ScriptMgr.cpp
+file
+
+
+
+
+2010-08-03T19:07:52.718750Z
+548f0bcd0464dc29393dc0fb59c0ecd9
+2010-08-02T06:20:23.437446Z
+1755
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16770
 
 config.h
 file
@@ -118,110 +152,8 @@ has-props
 
 1769
 
-ScriptMgr.cpp
-file
-
-
-
-
-2010-07-31T09:06:49.157355Z
-1128e8eb091de0fa25e14b4bb55c2abf
-2010-06-22T08:44:23.946079Z
-1725
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16283
-
 sql
 dir
-
-LICENSE.txt
-file
-
-
-
-
-2010-07-31T09:06:49.172983Z
-46b39127c800ae9546b0675c7dc36190
-2007-05-12T19:27:23.860831Z
-43
-ntsc
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15400
-
-ScriptMgr.h
-file
-
-
-
-
-2010-07-31T09:06:49.172983Z
-ec49f004c5a0b6693b9d26da8e6095b3
-2010-06-22T08:44:23.946079Z
-1725
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3759
 
 config.h.in
 file
@@ -256,6 +188,74 @@ has-props
 
 
 1769
+
+ScriptMgr.h
+file
+
+
+
+
+2010-08-03T19:07:52.875000Z
+b3c23983c14703027c27cbbbc8d56833
+2010-08-02T06:20:23.437446Z
+1755
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3875
+
+LICENSE.txt
+file
+
+
+
+
+2010-07-31T09:06:49.172983Z
+46b39127c800ae9546b0675c7dc36190
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15400
 
 scriptVC80.sln
 file

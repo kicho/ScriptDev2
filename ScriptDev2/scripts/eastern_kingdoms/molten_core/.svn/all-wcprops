@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/molten_core
+/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/molten_core
 END
 boss_gehennas.cpp
 K 25
@@ -37,7 +37,7 @@ boss_ragnaros.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/molten_core/boss_ragnaros.cpp
+/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/molten_core/boss_ragnaros.cpp
 END
 boss_sulfuron_harbinger.cpp
 K 25

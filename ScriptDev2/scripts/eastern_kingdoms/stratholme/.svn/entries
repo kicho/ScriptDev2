@@ -1,14 +1,14 @@
 10
 
 dir
-1750
+1756
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/stratholme
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-02T22:51:04.264805Z
+1756
 nofantasy
 
 
@@ -202,10 +202,10 @@ file
 
 
 
-2010-07-31T09:06:05.085549Z
-ed24d10a90dd102876ce681e07acb9b5
-2010-02-19T02:02:25.202153Z
-1585
+2010-08-03T19:07:49.546875Z
+bdd01c6f5ebb08c6ce3d2caf119fa99a
+2010-08-02T22:51:04.264805Z
+1756
 nofantasy
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-8433
+8405
 
 boss_order_of_silver_hand.cpp
 file
