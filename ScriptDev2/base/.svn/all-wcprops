@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 38
-/svnroot/scriptdev2/!svn/ver/1756/base
+/svnroot/scriptdev2/!svn/ver/1762/base
 END
 guard_ai.h
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svnroot/scriptdev2/!svn/ver/1537/base/guard_ai.h
+/svnroot/scriptdev2/!svn/ver/1762/base/guard_ai.h
 END
 follower_ai.cpp
 K 25
@@ -43,7 +43,7 @@ guard_ai.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svnroot/scriptdev2/!svn/ver/1756/base/guard_ai.cpp
+/svnroot/scriptdev2/!svn/ver/1762/base/guard_ai.cpp
 END
 escort_ai.h
 K 25

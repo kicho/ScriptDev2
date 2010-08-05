@@ -1,11 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/scriptdev2/!svn/ver/1683/scripts/kalimdor/onyxias_lair
+/svnroot/scriptdev2/!svn/ver/1760/scripts/kalimdor/onyxias_lair
+END
+instance_onyxias_lair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/scriptdev2/!svn/ver/1759/scripts/kalimdor/onyxias_lair/instance_onyxias_lair.cpp
+END
+onyxias_lair.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/scriptdev2/!svn/ver/1759/scripts/kalimdor/onyxias_lair/onyxias_lair.h
 END
 boss_onyxia.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/scriptdev2/!svn/ver/1683/scripts/kalimdor/onyxias_lair/boss_onyxia.cpp
+/svnroot/scriptdev2/!svn/ver/1760/scripts/kalimdor/onyxias_lair/boss_onyxia.cpp
 END

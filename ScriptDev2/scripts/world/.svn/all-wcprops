@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svnroot/scriptdev2/!svn/ver/1756/scripts/world
+/svnroot/scriptdev2/!svn/ver/1762/scripts/world
 END
 boss_lethon.cpp
 K 25
@@ -37,7 +37,7 @@ guards.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/svnroot/scriptdev2/!svn/ver/1656/scripts/world/guards.cpp
+/svnroot/scriptdev2/!svn/ver/1762/scripts/world/guards.cpp
 END
 item_scripts.cpp
 K 25

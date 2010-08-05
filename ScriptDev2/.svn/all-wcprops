@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 33
-/svnroot/scriptdev2/!svn/ver/1756
+/svnroot/scriptdev2/!svn/ver/1762
 END
 scriptdev2.conf.dist.in
 K 25
@@ -49,7 +49,7 @@ Makefile.am
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/svnroot/scriptdev2/!svn/ver/1744/Makefile.am
+/svnroot/scriptdev2/!svn/ver/1759/Makefile.am
 END
 ScriptMgr.cpp
 K 25
