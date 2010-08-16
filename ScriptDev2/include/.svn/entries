@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/include
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-01T19:22:24.839910Z
-1753
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 
 
@@ -134,10 +134,10 @@ file
 
 
 
-2010-07-31T09:05:46.190934Z
-dd199a62be1e69ee2bd2a2681bb66b86
-2010-07-08T22:34:10.262841Z
-1739
+2010-08-16T19:45:56.156250Z
+d3f0c2cb048d191114af8c9382740ae6
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-19707
+19708
 
 precompiled.cpp
 file

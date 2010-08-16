@@ -1,15 +1,15 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/coilfang_reservoir/serpent_shrine
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-06-02T02:02:03.596420Z
-1707
-deverend
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-07-31T09:05:57.099487Z
-a26fe68c5ff768bc96c555636d7607b1
-2010-03-30T18:57:44.756006Z
-1660
-deverend
+2010-08-16T19:46:35.437500Z
+6c99cb8e2f8147090f3d10645fde2952
+2010-08-10T16:41:10.402978Z
+1774
+nofantasy
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-11202
+11196
 
 boss_lady_vashj.cpp
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-07-31T09:05:57.130744Z
-19a866eecbf9734c92e33ebb35e7bb2a
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:35.531250Z
+3467e7f380ceb82a64eee416edfbe9a5
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-30028
+30139
 
 boss_fathomlord_karathress.cpp
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-07-31T09:05:57.130744Z
-d7f1af0efda5b6f20350276ff8ac7ca6
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:36.046875Z
+28c91fc5fca439b0d705e0c02c574479
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-19634
+19970
 
 boss_morogrim_tidewalker.cpp
 file

@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/scriptdev2/!svn/ver/1696/scripts/northrend/ulduar/halls_of_lightning
+/svnroot/scriptdev2/!svn/ver/1775/scripts/northrend/ulduar/halls_of_lightning
 END
 boss_ionar.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svnroot/scriptdev2/!svn/ver/1696/scripts/northrend/ulduar/halls_of_lightning/boss_ionar.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/northrend/ulduar/halls_of_lightning/boss_ionar.cpp
 END
 boss_loken.cpp
 K 25
@@ -31,11 +31,11 @@ boss_bjarngrim.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1568/scripts/northrend/ulduar/halls_of_lightning/boss_bjarngrim.cpp
+/svnroot/scriptdev2/!svn/ver/1775/scripts/northrend/ulduar/halls_of_lightning/boss_bjarngrim.cpp
 END
 boss_volkhan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/ulduar/halls_of_lightning/boss_volkhan.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/northrend/ulduar/halls_of_lightning/boss_volkhan.cpp
 END

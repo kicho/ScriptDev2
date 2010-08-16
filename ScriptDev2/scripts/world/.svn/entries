@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/world
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-05T07:58:37.707119Z
-1762
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 
 
@@ -135,9 +135,9 @@ file
 
 
 
-5bf87b737d181562f7afeb7402335fd1
-2010-08-02T22:51:04.264805Z
-1756
+9b8ec771e4ed585a857a47dd1c8e37fa
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -181,10 +181,10 @@ file
 
 
 
-2010-08-05T13:10:36.640625Z
-9cabf78ff0b08e957d07369867f66418
-2010-08-05T07:58:37.707119Z
-1762
+2010-08-16T19:46:51.437500Z
+de5a2e35ec00656a28c4d924a342c268
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -207,7 +207,7 @@ has-props
 
 
 
-10352
+10366
 
 item_scripts.cpp
 file

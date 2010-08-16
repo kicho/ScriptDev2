@@ -1,15 +1,15 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/tempest_keep/the_eye
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-19T12:51:34.474094Z
-1743
-nurri
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:05:57.568336Z
-f3ff11395dccc3510f1d3136985f9090
-2010-07-19T12:51:34.474094Z
-1743
-nurri
+2010-08-16T19:46:43.015625Z
+4482fdbc5bc95caa99c9b0e434f08f5e
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-54407
+54457
 
 the_eye.cpp
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-07-31T09:05:57.583965Z
-aa48e6d295ef9329a4232432c27a74e7
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:43.125000Z
+200a19686441dc5995f1f690dd4a9d3f
+2010-08-10T16:41:10.402978Z
+1774
 nofantasy
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-16282
+16291
 
 instance_the_eye.cpp
 file
@@ -202,11 +202,11 @@ file
 
 
 
-2010-07-31T09:05:57.615221Z
-b666bd18d6e286fe613591089a27416e
-2010-04-12T22:02:41.228497Z
-1677
-amki
+2010-08-16T19:46:43.265625Z
+1270e9d5119718645b3b17af55b3a278
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 has-props
 
 
@@ -228,5 +228,5 @@ has-props
 
 
 
-5701
+5704
 

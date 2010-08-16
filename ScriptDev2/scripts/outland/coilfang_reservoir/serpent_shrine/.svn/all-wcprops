@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/scriptdev2/!svn/ver/1707/scripts/outland/coilfang_reservoir/serpent_shrine
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/coilfang_reservoir/serpent_shrine
 END
 boss_hydross_the_unstable.cpp
 K 25
@@ -13,19 +13,19 @@ boss_leotheras_the_blind.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/svnroot/scriptdev2/!svn/ver/1660/scripts/outland/coilfang_reservoir/serpent_shrine/boss_leotheras_the_blind.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/outland/coilfang_reservoir/serpent_shrine/boss_leotheras_the_blind.cpp
 END
 boss_lady_vashj.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/coilfang_reservoir/serpent_shrine/boss_lady_vashj.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/coilfang_reservoir/serpent_shrine/boss_lady_vashj.cpp
 END
 boss_fathomlord_karathress.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 114
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/coilfang_reservoir/serpent_shrine/boss_fathomlord_karathress.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/coilfang_reservoir/serpent_shrine/boss_fathomlord_karathress.cpp
 END
 boss_morogrim_tidewalker.cpp
 K 25

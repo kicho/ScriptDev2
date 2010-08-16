@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/base
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-05T07:58:37.707119Z
-1762
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-07-31T09:06:48.954187Z
-1d8ac8677bc70f815711b1ffb22668fb
-2010-07-05T10:11:09.949444Z
-1737
+2010-08-16T19:47:13.375000Z
+3a18b08fe5fc9d0f02764af577a13820
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-12275
+12271
 
 simple_ai.cpp
 file
@@ -270,11 +270,11 @@ file
 
 
 
-2010-07-31T09:06:49.016700Z
-6cc808e5ef6248f4ae6f90cd64ff22ed
-2010-07-21T17:25:53.971647Z
-1746
-deverend
+2010-08-16T19:47:13.578125Z
+03fab69cc417d0a3c6387f825c1b4520
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 has-props
 
 
@@ -296,5 +296,5 @@ has-props
 
 
 
-3740
+3736
 

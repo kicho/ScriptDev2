@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland/auchindoun/shadow_labyrinth
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/auchindoun/shadow_labyrinth
 END
 boss_blackheart_the_inciter.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 109
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/auchindoun/shadow_labyrinth/boss_blackheart_the_inciter.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/auchindoun/shadow_labyrinth/boss_blackheart_the_inciter.cpp
 END
 instance_shadow_labyrinth.cpp
 K 25
@@ -25,7 +25,7 @@ boss_grandmaster_vorpil.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 105
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/auchindoun/shadow_labyrinth/boss_grandmaster_vorpil.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/auchindoun/shadow_labyrinth/boss_grandmaster_vorpil.cpp
 END
 boss_ambassador_hellmaw.cpp
 K 25
@@ -37,5 +37,5 @@ boss_murmur.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/auchindoun/shadow_labyrinth/boss_murmur.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/auchindoun/shadow_labyrinth/boss_murmur.cpp
 END

@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/scriptdev2/!svn/ver/1743/scripts/outland/tempest_keep/the_eye
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/tempest_keep/the_eye
 END
 boss_kaelthas.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/svnroot/scriptdev2/!svn/ver/1743/scripts/outland/tempest_keep/the_eye/boss_kaelthas.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/tempest_keep/the_eye/boss_kaelthas.cpp
 END
 the_eye.cpp
 K 25
@@ -19,7 +19,7 @@ boss_astromancer.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/tempest_keep/the_eye/boss_astromancer.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/outland/tempest_keep/the_eye/boss_astromancer.cpp
 END
 instance_the_eye.cpp
 K 25
@@ -37,5 +37,5 @@ boss_void_reaver.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/svnroot/scriptdev2/!svn/ver/1677/scripts/outland/tempest_keep/the_eye/boss_void_reaver.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/tempest_keep/the_eye/boss_void_reaver.cpp
 END

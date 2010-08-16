@@ -1,19 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/hellfire_citadel/shattered_halls
+/svnroot/scriptdev2/!svn/ver/1776/scripts/outland/hellfire_citadel/shattered_halls
 END
 boss_warbringer_omrogg.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 109
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/hellfire_citadel/shattered_halls/boss_warbringer_omrogg.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/outland/hellfire_citadel/shattered_halls/boss_warbringer_omrogg.cpp
 END
 boss_nethekurse.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/hellfire_citadel/shattered_halls/boss_nethekurse.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/outland/hellfire_citadel/shattered_halls/boss_nethekurse.cpp
 END
 instance_shattered_halls.cpp
 K 25
@@ -31,5 +31,5 @@ boss_warchief_kargath_bladefist.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 118
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/hellfire_citadel/shattered_halls/boss_warchief_kargath_bladefist.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/outland/hellfire_citadel/shattered_halls/boss_warchief_kargath_bladefist.cpp
 END

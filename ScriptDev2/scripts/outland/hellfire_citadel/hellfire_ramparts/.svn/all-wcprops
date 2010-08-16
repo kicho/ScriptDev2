@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/hellfire_citadel/hellfire_ramparts
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/hellfire_citadel/hellfire_ramparts
 END
 boss_watchkeeper_gargolmar.cpp
 K 25
@@ -19,7 +19,7 @@ boss_omor_the_unscarred.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/hellfire_citadel/hellfire_ramparts/boss_omor_the_unscarred.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/hellfire_citadel/hellfire_ramparts/boss_omor_the_unscarred.cpp
 END
 hellfire_ramparts.h
 K 25

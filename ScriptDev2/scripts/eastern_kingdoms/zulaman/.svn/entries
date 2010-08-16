@@ -1,15 +1,15 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/zulaman
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-21T17:25:53.971647Z
-1746
-deverend
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-07-31T09:06:03.850913Z
-4658e4f24ca0311b01cf9029d6a51e2a
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:47:03.312500Z
+5dff8bb8e51aa8b6e7161a4e637fb63f
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-26546
+26597
 
 zulaman.cpp
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-07-31T09:06:03.866541Z
-01a11b118fa374e51e72a52e1d8e4572
-2010-07-21T17:25:53.971647Z
-1746
-deverend
+2010-08-16T19:47:03.359375Z
+dedaa9515b8769985d5e74599582ad4d
+2010-08-10T16:41:10.402978Z
+1774
+nofantasy
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-8472
+8464
 
 boss_halazzi.cpp
 file
@@ -236,10 +236,10 @@ file
 
 
 
-2010-07-31T09:06:03.897798Z
-1e368a776948327f2e0333a6989f1b41
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:47:03.437500Z
+7aa4fc9a388cf3c8edddeec074eeb75c
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-24257
+24233
 
 zulaman.h
 file

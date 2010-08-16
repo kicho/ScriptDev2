@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/hellfire_citadel/shattered_halls
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-10T21:22:19.433882Z
+1776
 nofantasy
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-07-31T09:05:55.724197Z
-8af487e821cf035580461a269d03f7ad
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:27.859375Z
+7002a9984b1a676e8d2d44362707a1b0
+2010-08-10T21:22:19.433882Z
+1776
 nofantasy
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-11951
+12152
 
 boss_nethekurse.cpp
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-07-31T09:05:55.724197Z
-0a1da091aa953f5619a99b93d947c9b4
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:27.906250Z
+96302dfe20df1fafd5060b4a67e1f84c
+2010-08-10T21:22:19.433882Z
+1776
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-12577
+12799
 
 instance_shattered_halls.cpp
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2010-07-31T09:05:55.771082Z
-51da41e34ed4106e698d638b34ce5719
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:28.046875Z
+4ce3390c0229bcd21edbfc7a6ca16b17
+2010-08-10T21:22:19.433882Z
+1776
 nofantasy
 has-props
 
@@ -194,5 +194,5 @@ has-props
 
 
 
-9981
+10033
 

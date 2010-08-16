@@ -1,37 +1,37 @@
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/svnroot/scriptdev2/!svn/ver/1756/scripts/outland/black_temple
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple
 END
 boss_teron_gorefiend.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/scriptdev2/!svn/ver/1684/scripts/outland/black_temple/boss_teron_gorefiend.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_teron_gorefiend.cpp
 END
 black_temple.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/scriptdev2/!svn/ver/1537/scripts/outland/black_temple/black_temple.cpp
+/svnroot/scriptdev2/!svn/ver/1775/scripts/outland/black_temple/black_temple.cpp
 END
 boss_illidan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/scriptdev2/!svn/ver/1756/scripts/outland/black_temple/boss_illidan.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_illidan.cpp
 END
 boss_mother_shahraz.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/black_temple/boss_mother_shahraz.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_mother_shahraz.cpp
 END
 illidari_council.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/black_temple/illidari_council.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/illidari_council.cpp
 END
 instance_black_temple.cpp
 K 25
@@ -55,23 +55,23 @@ boss_shade_of_akama.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/1756/scripts/outland/black_temple/boss_shade_of_akama.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/outland/black_temple/boss_shade_of_akama.cpp
 END
 boss_supremus.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/black_temple/boss_supremus.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_supremus.cpp
 END
 boss_bloodboil.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/black_temple/boss_bloodboil.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_bloodboil.cpp
 END
 boss_reliquary_of_souls.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/svnroot/scriptdev2/!svn/ver/1743/scripts/outland/black_temple/boss_reliquary_of_souls.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_reliquary_of_souls.cpp
 END

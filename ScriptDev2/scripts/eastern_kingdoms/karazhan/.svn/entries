@@ -1,15 +1,15 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/karazhan
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-21T17:25:53.971647Z
-1746
-deverend
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-07-31T09:06:02.444366Z
-3ff0b0787ac69109b907c79cb5ca211f
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:59.218750Z
+f905c9e8c0fa5a3b84f24df57b0908c2
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-19616
+19665
 
 karazhan.cpp
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-07-31T09:06:02.444366Z
-3752af1e3eaba5acc56b77e7217bb475
-2010-07-21T17:25:53.971647Z
-1746
-deverend
+2010-08-16T19:46:59.328125Z
+e722e6a819f5613efe4c09bded08e256
+2010-08-10T16:41:10.402978Z
+1774
+nofantasy
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-14443
+14439
 
 boss_netherspite.cpp
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-07-31T09:06:02.475623Z
-ff1b1bca3ce93379a9b794ea80983935
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:59.406250Z
+ced97701aa45e8c8ab6944b681f95199
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-11454
+11552
 
 instance_karazhan.cpp
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-07-31T09:06:02.491251Z
-aafb018723cdc3edf1a116f223603bf9
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:59.468750Z
+733df9dafc27cadd466bbeda0b3738a6
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-41682
+42141
 
 karazhan.h
 file
@@ -304,10 +304,10 @@ file
 
 
 
-2010-07-31T09:06:02.522508Z
-3a43508947637471c8365ec633ff133b
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:59.640625Z
+2f81a6467e0409fb33e41e0ab6be8c66
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-5321
+5328
 
 boss_nightbane.cpp
 file
@@ -372,11 +372,11 @@ file
 
 
 
-2010-07-31T09:06:02.538136Z
-1243b9caca05181803a31085ee2c6b83
-2010-02-24T17:25:52.394755Z
-1601
-deverend
+2010-08-16T19:46:59.703125Z
+bbbfd5946f1045ee896119a6a53a0ace
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 has-props
 
 
@@ -398,7 +398,7 @@ has-props
 
 
 
-11999
+12154
 
 boss_moroes.cpp
 file
@@ -406,10 +406,10 @@ file
 
 
 
-2010-07-31T09:06:02.538136Z
-17fa842da03f38d1b8b34b3c032b40c7
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:59.843750Z
+0d40c6b5f95e3243aab18a95ecdd24be
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-25385
+25487
 
 boss_prince_malchezaar.cpp
 file
@@ -440,10 +440,10 @@ file
 
 
 
-2010-07-31T09:06:02.538136Z
-c401221b056d47fc9e86fbe9ce3cc5d1
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:46:59.906250Z
+3b1e7641c24265e39718ed9cebeeedf5
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -466,5 +466,5 @@ has-props
 
 
 
-21894
+22126
 

@@ -1,15 +1,15 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/scarlet_monastery
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-07-21T17:25:53.971647Z
-1746
-deverend
+2010-08-10T16:41:10.402978Z
+1774
+nofantasy
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:06:01.975517Z
-1f8c23156f2078c626b1af847a738936
-2010-02-24T17:25:52.394755Z
-1601
-deverend
+2010-08-16T19:46:57.062500Z
+fb8f5acab797197c23948f87f3529056
+2010-08-10T16:41:10.402978Z
+1774
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3451
+3462
 
 instance_scarlet_monastery.cpp
 file

@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/blackrock_depths
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/blackrock_depths
 END
 boss_ambassador_flamelash.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 105
-/svnroot/scriptdev2/!svn/ver/1568/scripts/eastern_kingdoms/blackrock_depths/boss_ambassador_flamelash.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/blackrock_depths/boss_ambassador_flamelash.cpp
 END
 boss_high_interrogator_gerstahn.cpp
 K 25
@@ -25,13 +25,13 @@ blackrock_depths.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/blackrock_depths/blackrock_depths.cpp
+/svnroot/scriptdev2/!svn/ver/1775/scripts/eastern_kingdoms/blackrock_depths/blackrock_depths.cpp
 END
 boss_general_angerforge.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/svnroot/scriptdev2/!svn/ver/1601/scripts/eastern_kingdoms/blackrock_depths/boss_general_angerforge.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/blackrock_depths/boss_general_angerforge.cpp
 END
 instance_blackrock_depths.cpp
 K 25

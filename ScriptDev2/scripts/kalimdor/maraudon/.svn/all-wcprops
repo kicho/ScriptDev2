@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/svnroot/scriptdev2/!svn/ver/1683/scripts/kalimdor/maraudon
+/svnroot/scriptdev2/!svn/ver/1776/scripts/kalimdor/maraudon
 END
 boss_landslide.cpp
 K 25
@@ -13,7 +13,7 @@ boss_noxxion.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/scriptdev2/!svn/ver/1568/scripts/kalimdor/maraudon/boss_noxxion.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/kalimdor/maraudon/boss_noxxion.cpp
 END
 boss_princess_theradras.cpp
 K 25

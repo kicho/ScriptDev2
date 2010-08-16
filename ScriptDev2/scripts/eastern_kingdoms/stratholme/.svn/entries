@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/stratholme
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-02T22:51:04.264805Z
-1756
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:06:05.023036Z
-ff6fdf4a88791f210b13fb8463f9eaa0
-2010-02-05T20:19:19.663643Z
-1568
-deverend
+2010-08-16T19:47:05.468750Z
+74d06cf7e6c3c66ceb4c85f6de45f711
+2010-08-10T21:22:19.433882Z
+1776
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-4064
+4049
 
 boss_magistrate_barthilas.cpp
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-08-03T19:07:49.546875Z
-bdd01c6f5ebb08c6ce3d2caf119fa99a
-2010-08-02T22:51:04.264805Z
-1756
+2010-08-16T19:47:05.687500Z
+8c3566a516b8d51aa3432d3907ec780f
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-8405
+8419
 
 boss_order_of_silver_hand.cpp
 file

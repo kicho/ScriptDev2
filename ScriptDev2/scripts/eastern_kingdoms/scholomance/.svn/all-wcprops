@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/scholomance
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/scholomance
 END
 boss_doctor_theolen_krastinov.cpp
 K 25
@@ -49,7 +49,7 @@ boss_darkmaster_gandling.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 99
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/scholomance/boss_darkmaster_gandling.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/scholomance/boss_darkmaster_gandling.cpp
 END
 boss_lord_alexei_barov.cpp
 K 25
@@ -61,7 +61,7 @@ boss_kormok.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/1601/scripts/eastern_kingdoms/scholomance/boss_kormok.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/scholomance/boss_kormok.cpp
 END
 boss_the_ravenian.cpp
 K 25
@@ -79,7 +79,7 @@ boss_jandice_barov.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/scholomance/boss_jandice_barov.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/scholomance/boss_jandice_barov.cpp
 END
 boss_lorekeeper_polkelt.cpp
 K 25

@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/stratholme
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/stratholme
 END
 boss_nerubenkan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 89
-/svnroot/scriptdev2/!svn/ver/1568/scripts/eastern_kingdoms/stratholme/boss_nerubenkan.cpp
+/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/stratholme/boss_nerubenkan.cpp
 END
 boss_magistrate_barthilas.cpp
 K 25
@@ -37,7 +37,7 @@ stratholme.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1756/scripts/eastern_kingdoms/stratholme/stratholme.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/stratholme/stratholme.cpp
 END
 boss_order_of_silver_hand.cpp
 K 25

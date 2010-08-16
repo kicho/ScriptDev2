@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/blackrock_depths
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-02T22:51:04.264805Z
-1756
+2010-08-10T21:22:19.433882Z
+1776
 nofantasy
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:06:02.881958Z
-32e8eebabf20b25354bc6139a48e823f
-2010-02-05T20:19:19.663643Z
-1568
-deverend
+2010-08-16T19:47:02.515625Z
+6ad831fa29d65c0b99b4bdcbe810d7ed
+2010-08-10T21:22:19.433882Z
+1776
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3191
+3176
 
 boss_high_interrogator_gerstahn.cpp
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-08-03T19:07:48.531250Z
-2e45f0c9b8cb2f31e5b2579f4b39cc5e
-2010-08-02T22:51:04.264805Z
-1756
+2010-08-16T19:47:02.531250Z
+5527f1068b8c841b37ca00044caefaa6
+2010-08-10T16:53:13.094857Z
+1775
 nofantasy
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-24566
+24567
 
 boss_general_angerforge.cpp
 file
@@ -168,11 +168,11 @@ file
 
 
 
-2010-07-31T09:06:02.928843Z
-d9bf662a3e5565cda131ba50eb6dd68e
-2010-02-24T17:25:52.394755Z
-1601
-deverend
+2010-08-16T19:47:02.546875Z
+24fec3d16bc06ef4024be08538b90882
+2010-08-10T21:22:19.433882Z
+1776
+nofantasy
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-4986
+4956
 
 instance_blackrock_depths.cpp
 file

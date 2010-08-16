@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/blackwing_lair
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2010-07-31T09:06:04.210364Z
-dff1e369ce3e71e0559a1cc92a0f2586
-2010-02-24T17:25:52.394755Z
-1601
-deverend
+2010-08-16T19:47:03.953125Z
+810d106763beed45654c2ea3d214ed04
+2010-08-11T07:14:32.552066Z
+1777
+nofantasy
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-12110
+12080
 
 boss_vaelastrasz.cpp
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-07-31T09:06:04.225992Z
-0cf8aed7ffbb2dca8065be89adc136bb
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:47:04.000000Z
+cd546b5166ac506cc559fb7dd1b4244d
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-8658
+8688
 
 boss_victor_nefarius.cpp
 file
@@ -236,10 +236,10 @@ file
 
 
 
-2010-07-31T09:06:04.225992Z
-506c2bf91542c19098310166249c4fbf
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-16T19:47:04.031250Z
+bfc06f5318fd161bb7a8a2f947734b4d
+2010-08-10T21:22:19.433882Z
+1776
 nofantasy
 has-props
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-14614
+14683
 
 boss_nefarian.cpp
 file

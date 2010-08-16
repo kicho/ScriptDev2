@@ -1,19 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/scriptdev2/!svn/ver/1746/scripts/eastern_kingdoms/karazhan
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan
 END
 boss_shade_of_aran.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/karazhan/boss_shade_of_aran.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/boss_shade_of_aran.cpp
 END
 karazhan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1746/scripts/eastern_kingdoms/karazhan/karazhan.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/eastern_kingdoms/karazhan/karazhan.cpp
 END
 boss_netherspite.cpp
 K 25
@@ -25,7 +25,7 @@ boss_terestian_illhoof.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/karazhan/boss_terestian_illhoof.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/boss_terestian_illhoof.cpp
 END
 instance_karazhan.cpp
 K 25
@@ -37,7 +37,7 @@ bosses_opera.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/karazhan/bosses_opera.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/bosses_opera.cpp
 END
 karazhan.h
 K 25
@@ -55,7 +55,7 @@ boss_maiden_of_virtue.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/karazhan/boss_maiden_of_virtue.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/boss_maiden_of_virtue.cpp
 END
 boss_nightbane.cpp
 K 25
@@ -67,17 +67,17 @@ boss_midnight.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/svnroot/scriptdev2/!svn/ver/1601/scripts/eastern_kingdoms/karazhan/boss_midnight.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/boss_midnight.cpp
 END
 boss_moroes.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/karazhan/boss_moroes.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/boss_moroes.cpp
 END
 boss_prince_malchezaar.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/karazhan/boss_prince_malchezaar.cpp
+/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/karazhan/boss_prince_malchezaar.cpp
 END

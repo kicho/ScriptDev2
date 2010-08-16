@@ -1,14 +1,14 @@
 10
 
 dir
-1762
+1779
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-04T18:42:09.229283Z
-1759
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 
 
@@ -72,10 +72,10 @@ file
 
 
 
-2010-08-05T13:10:42.828125Z
-7410a45c9bfc5e47e14ecebeced38a10
-2010-08-04T18:42:09.229283Z
-1759
+2010-08-16T19:47:12.593750Z
+b4cb8ba23f045e9c4d3ac2ee3ede4e23
+2010-08-06T14:56:37.755908Z
+1767
 nofantasy
 has-props
 
@@ -98,7 +98,7 @@ has-props
 
 
 
-76915
+77180
 
 scriptdev2_script_full.sql
 file
@@ -106,10 +106,10 @@ file
 
 
 
-2010-08-03T19:07:51.953125Z
-a8ca51666b7d5c7473490ad0b504026d
-2010-08-01T21:19:45.349364Z
-1754
+2010-08-16T19:47:12.640625Z
+d1f2cacb220242129031ce769d08dee2
+2010-08-11T07:14:32.552066Z
+1777
 nofantasy
 has-props
 
@@ -132,7 +132,7 @@ has-props
 
 
 
-324637
+325007
 
 scriptdev2_create_database.sql
 file

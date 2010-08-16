@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/gundrak
+/svnroot/scriptdev2/!svn/ver/1774/scripts/northrend/gundrak
 END
 boss_moorabi.cpp
 K 25
@@ -37,5 +37,5 @@ boss_sladran.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/gundrak/boss_sladran.cpp
+/svnroot/scriptdev2/!svn/ver/1774/scripts/northrend/gundrak/boss_sladran.cpp
 END
