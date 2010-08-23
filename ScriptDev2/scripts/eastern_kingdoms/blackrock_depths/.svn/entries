@@ -1,15 +1,15 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/blackrock_depths
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-10T21:22:19.433882Z
-1776
-nofantasy
+2010-08-21T16:59:39.987871Z
+1785
+deverend
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2010-08-16T19:47:02.531250Z
-5527f1068b8c841b37ca00044caefaa6
-2010-08-10T16:53:13.094857Z
-1775
-nofantasy
+2010-08-23T19:39:36.703125Z
+70bd2917ea282d6fadd8663c9920cd99
+2010-08-21T16:59:39.987871Z
+1785
+deverend
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-24567
+25642
 
 boss_general_angerforge.cpp
 file

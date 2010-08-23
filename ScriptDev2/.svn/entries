@@ -1,15 +1,15 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-15T12:35:39.471499Z
-1779
-nofantasy
+2010-08-23T17:20:59.742197Z
+1800
+deverend
 has-props
 
 
@@ -195,11 +195,11 @@ file
 
 
 
-2010-08-03T19:07:52.875000Z
-b3c23983c14703027c27cbbbc8d56833
-2010-08-02T06:20:23.437446Z
-1755
-nofantasy
+2010-08-23T19:39:47.406250Z
+af1c3023ae7d0e6a6334229ea546af26
+2010-08-23T15:25:59.924930Z
+1796
+deverend
 has-props
 
 
@@ -221,7 +221,7 @@ has-props
 
 
 
-3875
+3877
 
 LICENSE.txt
 file

@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/stratholme
+/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme
 END
 boss_nerubenkan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 89
-/svnroot/scriptdev2/!svn/ver/1776/scripts/eastern_kingdoms/stratholme/boss_nerubenkan.cpp
+/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme/boss_nerubenkan.cpp
 END
 boss_magistrate_barthilas.cpp
 K 25
@@ -49,7 +49,7 @@ boss_baroness_anastari.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/stratholme/boss_baroness_anastari.cpp
+/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme/boss_baroness_anastari.cpp
 END
 boss_postmaster_malown.cpp
 K 25
@@ -67,19 +67,19 @@ instance_stratholme.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/scriptdev2/!svn/ver/1572/scripts/eastern_kingdoms/stratholme/instance_stratholme.cpp
+/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme/instance_stratholme.cpp
 END
 stratholme.h
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/scriptdev2/!svn/ver/1537/scripts/eastern_kingdoms/stratholme/stratholme.h
+/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme/stratholme.h
 END
 boss_maleki_the_pallid.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1568/scripts/eastern_kingdoms/stratholme/boss_maleki_the_pallid.cpp
+/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme/boss_maleki_the_pallid.cpp
 END
 boss_ramstein_the_gorger.cpp
 K 25

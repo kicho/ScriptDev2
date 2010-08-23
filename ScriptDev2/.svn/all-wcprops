@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 33
-/svnroot/scriptdev2/!svn/ver/1779
+/svnroot/scriptdev2/!svn/ver/1800
 END
 scriptdev2.conf.dist.in
 K 25
@@ -19,7 +19,7 @@ ScriptMgr.h
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/svnroot/scriptdev2/!svn/ver/1755/ScriptMgr.h
+/svnroot/scriptdev2/!svn/ver/1796/ScriptMgr.h
 END
 config.h.in
 K 25

@@ -1,15 +1,15 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/stratholme
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-11T07:14:32.552066Z
-1777
-nofantasy
+2010-08-21T16:37:34.930548Z
+1784
+deverend
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-08-16T19:47:05.468750Z
-74d06cf7e6c3c66ceb4c85f6de45f711
-2010-08-10T21:22:19.433882Z
-1776
-nofantasy
+2010-08-23T19:39:38.546875Z
+3787d49c26ae9eb06aacc4ebc11d1f31
+2010-08-21T16:37:34.930548Z
+1784
+deverend
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-4049
+4043
 
 boss_magistrate_barthilas.cpp
 file
@@ -270,11 +270,11 @@ file
 
 
 
-2010-07-31T09:06:05.085549Z
-21721f9160dd34d83ce766cdabb6199b
-2010-05-04T12:17:06.920751Z
-1683
-nofantasy
+2010-08-23T19:39:38.609375Z
+242af6989dbf45e099d8c345beec06bd
+2010-08-21T16:37:34.930548Z
+1784
+deverend
 has-props
 
 
@@ -296,7 +296,7 @@ has-props
 
 
 
-3526
+3520
 
 boss_postmaster_malown.cpp
 file
@@ -372,78 +372,10 @@ file
 
 
 
-2010-07-31T09:06:05.101177Z
-6f15214e4d95489af633c62b2493a957
-2010-02-10T00:24:08.032959Z
-1572
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15335
-
-stratholme.h
-file
-
-
-
-
-2010-07-31T09:06:05.116805Z
-70fe3fe0aba9350d6ea8e006210f5b9f
-2010-01-01T23:51:11.692998Z
-1537
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-858
-
-boss_maleki_the_pallid.cpp
-file
-
-
-
-
-2010-07-31T09:06:05.116805Z
-4209f479a4d9fdce987a0423d0c69e63
-2010-02-05T20:19:19.663643Z
-1568
+2010-08-23T19:39:38.703125Z
+5ac139d53aef6e01f3eab1922d0ac7c5
+2010-08-21T16:37:34.930548Z
+1784
 deverend
 has-props
 
@@ -466,7 +398,75 @@ has-props
 
 
 
-3158
+18455
+
+stratholme.h
+file
+
+
+
+
+2010-08-23T19:39:38.750000Z
+fc8450f252a1572f43e32ea990874501
+2010-08-21T16:37:34.930548Z
+1784
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4160
+
+boss_maleki_the_pallid.cpp
+file
+
+
+
+
+2010-08-23T19:39:38.875000Z
+fa5dd517c61d540f877100e02fc6e2a8
+2010-08-21T16:37:34.930548Z
+1784
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3152
 
 boss_ramstein_the_gorger.cpp
 file

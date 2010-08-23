@@ -1,15 +1,15 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/kalimdor/caverns_of_time/culling_of_stratholme
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-05-10T22:21:58.357678Z
-1687
-deverend
+2010-08-17T16:00:27.908515Z
+1780
+nofantasy
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-07-31T09:05:49.050913Z
-4470c20b2dc0b0c3962d69583b276e21
-2010-05-10T22:21:58.357678Z
-1687
-deverend
+2010-08-23T19:39:25.765625Z
+2fbcf9236a7b3f75d650c54d062510fa
+2010-08-17T16:00:27.908515Z
+1780
+nofantasy
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-22124
+22121
 
 culling_of_stratholme.h
 file

@@ -1,15 +1,15 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/world
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-11T07:14:32.552066Z
-1777
-nofantasy
+2010-08-23T17:20:59.742197Z
+1800
+deverend
 
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-08-03T19:07:45.781250Z
-658970851d7aaefcc48875f6710b9e06
-2010-08-02T06:20:23.437446Z
-1755
+2010-08-23T19:39:34.687500Z
+d35d666c89d782a31aabdcadd4abdbb8
+2010-08-17T16:00:27.908515Z
+1780
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-7465
+7441
 
 mob_generic_creature.cpp
 file
@@ -249,11 +249,11 @@ file
 
 
 
-2010-07-31T09:06:00.084493Z
-2e2cc0803226b231f2d181cda65bc2c2
-2010-05-30T21:13:30.620476Z
-1706
-deverend
+2010-08-23T19:39:34.734375Z
+523bce1adefc41964de27a211c66b4db
+2010-08-17T16:00:27.908515Z
+1780
+nofantasy
 has-props
 
 
@@ -275,7 +275,7 @@ has-props
 
 
 
-21614
+21608
 
 boss_ysondre.cpp
 file
@@ -351,11 +351,11 @@ file
 
 
 
-2010-07-31T09:06:00.100121Z
-7feb6cfde485fad12cf693fc88449747
-2010-06-27T12:29:30.670691Z
-1736
-nofantasy
+2010-08-23T19:39:34.843750Z
+c640383811cfcc20fcee456b07c0c27a
+2010-08-23T17:20:59.742197Z
+1800
+deverend
 has-props
 
 
@@ -377,7 +377,7 @@ has-props
 
 
 
-14374
+17666
 
 boss_emeriss.cpp
 file

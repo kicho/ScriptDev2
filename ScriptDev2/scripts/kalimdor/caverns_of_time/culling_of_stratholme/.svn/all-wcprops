@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/svnroot/scriptdev2/!svn/ver/1687/scripts/kalimdor/caverns_of_time/culling_of_stratholme
+/svnroot/scriptdev2/!svn/ver/1780/scripts/kalimdor/caverns_of_time/culling_of_stratholme
 END
 culling_of_stratholme.cpp
 K 25
@@ -13,7 +13,7 @@ instance_culling_of_stratholme.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 123
-/svnroot/scriptdev2/!svn/ver/1687/scripts/kalimdor/caverns_of_time/culling_of_stratholme/instance_culling_of_stratholme.cpp
+/svnroot/scriptdev2/!svn/ver/1780/scripts/kalimdor/caverns_of_time/culling_of_stratholme/instance_culling_of_stratholme.cpp
 END
 culling_of_stratholme.h
 K 25

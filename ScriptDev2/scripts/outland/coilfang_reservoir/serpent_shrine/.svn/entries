@@ -1,15 +1,15 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/coilfang_reservoir/serpent_shrine
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-11T07:14:32.552066Z
-1777
-nofantasy
+2010-08-23T15:25:59.924930Z
+1796
+deverend
 
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2010-08-16T19:46:35.531250Z
-3467e7f380ceb82a64eee416edfbe9a5
-2010-08-11T07:14:32.552066Z
-1777
-nofantasy
+2010-08-23T19:39:32.546875Z
+e542c95cae59d99d77b31dba942a5855
+2010-08-23T15:25:59.924930Z
+1796
+deverend
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-30139
+30247
 
 boss_fathomlord_karathress.cpp
 file

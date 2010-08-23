@@ -1,14 +1,14 @@
 10
 
 dir
-1779
+1800
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/magisters_terrace
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-11T07:14:32.552066Z
-1777
+2010-08-17T16:00:27.908515Z
+1780
 nofantasy
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-07-31T09:06:05.960734Z
-471a718e6a9d046efec4792872404661
-2010-03-30T18:57:44.756006Z
-1660
-deverend
+2010-08-23T19:39:39.359375Z
+fac003aef9a216e995abf68445545c11
+2010-08-17T16:00:27.908515Z
+1780
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-6145
+6142
 
 instance_magisters_terrace.cpp
 file
