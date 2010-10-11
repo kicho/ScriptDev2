@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svnroot/scriptdev2/!svn/ver/1799/scripts/northrend
+/svnroot/scriptdev2/!svn/ver/1833/scripts/northrend
 END
 sholazar_basin.cpp
 K 25
@@ -37,7 +37,7 @@ storm_peaks.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/storm_peaks.cpp
+/svnroot/scriptdev2/!svn/ver/1816/scripts/northrend/storm_peaks.cpp
 END
 icecrown.cpp
 K 25

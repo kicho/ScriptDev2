@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-23T17:20:59.742197Z
-1800
+2010-10-09T19:37:50.964571Z
+1839
 deverend
 has-props
 
@@ -25,9 +25,6 @@ has-props
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
-
-VC80
-dir
 
 scriptdev2.conf.dist.in
 file
@@ -63,6 +60,9 @@ has-props
 
 681
 
+VC80
+dir
+
 VC90
 dir
 
@@ -72,10 +72,10 @@ dir
 system
 dir
 
-scripts
+patches
 dir
 
-patches
+scripts
 dir
 
 docs
@@ -83,40 +83,6 @@ dir
 
 VC100
 dir
-
-ScriptMgr.cpp
-file
-
-
-
-
-2010-08-03T19:07:52.718750Z
-548f0bcd0464dc29393dc0fb59c0ecd9
-2010-08-02T06:20:23.437446Z
-1755
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16770
 
 config.h
 file
@@ -152,19 +118,16 @@ has-props
 
 1769
 
-sql
-dir
-
-config.h.in
+ScriptMgr.cpp
 file
 
 
 
 
-2010-07-31T09:06:49.188611Z
-f7bc128fbeb903b9fca813ac8bfafd4f
-2009-08-03T12:59:25.920490Z
-1297
+2010-10-11T20:31:11.187500Z
+2caa4557383c4fe44fa436396944ca8d
+2010-08-27T08:50:12.287922Z
+1809
 nofantasy
 has-props
 
@@ -187,7 +150,44 @@ has-props
 
 
 
-1769
+16763
+
+sql
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2010-07-31T09:06:49.172983Z
+46b39127c800ae9546b0675c7dc36190
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15400
 
 ScriptMgr.h
 file
@@ -223,17 +223,17 @@ has-props
 
 3877
 
-LICENSE.txt
+config.h.in
 file
 
 
 
 
-2010-07-31T09:06:49.172983Z
-46b39127c800ae9546b0675c7dc36190
-2007-05-12T19:27:23.860831Z
-43
-ntsc
+2010-07-31T09:06:49.188611Z
+f7bc128fbeb903b9fca813ac8bfafd4f
+2009-08-03T12:59:25.920490Z
+1297
+nofantasy
 has-props
 
 
@@ -255,7 +255,7 @@ has-props
 
 
 
-15400
+1769
 
 scriptVC80.sln
 file
@@ -365,11 +365,11 @@ file
 
 
 
-2010-08-16T19:47:14.078125Z
-be82c9e67d8f9c4a45abe6052c966164
-2010-08-05T15:58:04.333254Z
-1763
-nofantasy
+2010-10-11T20:31:11.265625Z
+b8ebf81a39401d3123af8103a60f5587
+2010-09-26T14:47:04.631049Z
+1833
+deverend
 has-props
 
 
@@ -391,7 +391,7 @@ has-props
 
 
 
-31906
+32978
 
 base
 dir

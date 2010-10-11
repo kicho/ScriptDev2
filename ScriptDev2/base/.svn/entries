@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/base
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-23T15:25:59.924930Z
-1796
+2010-09-25T15:21:38.333910Z
+1829
 deverend
 
 
@@ -94,40 +94,6 @@ has-props
 
 12271
 
-simple_ai.cpp
-file
-
-
-
-
-2010-08-23T19:39:46.703125Z
-ef7ecaf7fe8b4ef59352d183ff0555aa
-2010-08-23T15:25:59.924930Z
-1796
-deverend
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7932
-
 follower_ai.h
 file
 
@@ -162,51 +128,17 @@ has-props
 
 2647
 
-simple_ai.h
-file
-
-
-
-
-2010-08-23T19:39:46.984375Z
-9fcab6275fb938d5b3e5c0c89ea27dc5
-2010-08-23T15:25:59.924930Z
-1796
-deverend
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2633
-
 escort_ai.cpp
 file
 
 
 
 
-2010-08-23T19:39:47.031250Z
-0e4630fe0dc55c9a2ccca179386109b0
-2010-08-23T15:25:59.924930Z
-1796
-deverend
+2010-10-11T20:31:11.062500Z
+84183ca4693e1bd18fecdd3b577aaf15
+2010-08-25T09:11:10.644056Z
+1803
+nofantasy
 has-props
 
 
@@ -228,7 +160,7 @@ has-props
 
 
 
-15068
+15835
 
 guard_ai.cpp
 file
@@ -270,11 +202,11 @@ file
 
 
 
-2010-08-23T19:39:47.203125Z
-9c156c27634fcc8c8098b745db957f94
-2010-08-23T15:25:59.924930Z
-1796
-deverend
+2010-10-11T20:31:11.078125Z
+5f74d84ac96265128ee9bc696786c6bb
+2010-08-25T09:11:10.644056Z
+1803
+nofantasy
 has-props
 
 
@@ -296,5 +228,5 @@ has-props
 
 
 
-3757
+3844
 

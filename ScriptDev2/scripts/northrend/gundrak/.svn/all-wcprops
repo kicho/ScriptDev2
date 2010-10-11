@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/svnroot/scriptdev2/!svn/ver/1795/scripts/northrend/gundrak
+/svnroot/scriptdev2/!svn/ver/1827/scripts/northrend/gundrak
 END
 boss_moorabi.cpp
 K 25
@@ -13,19 +13,19 @@ instance_gundrak.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1795/scripts/northrend/gundrak/instance_gundrak.cpp
+/svnroot/scriptdev2/!svn/ver/1817/scripts/northrend/gundrak/instance_gundrak.cpp
 END
 boss_colossus.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/scriptdev2/!svn/ver/1795/scripts/northrend/gundrak/boss_colossus.cpp
+/svnroot/scriptdev2/!svn/ver/1827/scripts/northrend/gundrak/boss_colossus.cpp
 END
 gundrak.h
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1795/scripts/northrend/gundrak/gundrak.h
+/svnroot/scriptdev2/!svn/ver/1817/scripts/northrend/gundrak/gundrak.h
 END
 boss_galdarah.cpp
 K 25

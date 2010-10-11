@@ -32,6 +32,8 @@ spell 46770
 spell 46023
 spell 47575
 spell 50706
+spell 45109
+spell 45111
 EndContentData */
 
 #include "precompiled.h"
@@ -65,7 +67,7 @@ bool EffectDummyGameObj_spell_dummy_go(Unit* pCaster, uint32 uiSpellId, SpellEff
         {
             if (uiEffIndex == EFFECT_INDEX_0)
             {
-                if (pGOTarget->GetEntry() != GO_TASTY_REEF_FISH || pCaster->GetTypeId() != TYPEID_PLAYER)
+                if (pGOTarget->GetRespawnTime() != 0 || pGOTarget->GetEntry() != GO_TASTY_REEF_FISH || pCaster->GetTypeId() != TYPEID_PLAYER)
                     return true;
 
                 if (urand(0, 3))
@@ -79,7 +81,7 @@ bool EffectDummyGameObj_spell_dummy_go(Unit* pCaster, uint32 uiSpellId, SpellEff
                         pShark->AI()->AttackStart(pCaster);
                 }
 
-                pGOTarget->Delete();                        // sends despawn anim + destroy
+                pGOTarget->SetLootState(GO_JUST_DEACTIVATED);
                 return true;
             }
             return true;
@@ -88,7 +90,7 @@ bool EffectDummyGameObj_spell_dummy_go(Unit* pCaster, uint32 uiSpellId, SpellEff
         {
             if (uiEffIndex == EFFECT_INDEX_0)
             {
-                if (pGOTarget->GetEntry() != GO_RED_SNAPPER || pCaster->GetTypeId() != TYPEID_PLAYER)
+                if (pGOTarget->GetRespawnTime() != 0 || pGOTarget->GetEntry() != GO_RED_SNAPPER || pCaster->GetTypeId() != TYPEID_PLAYER)
                     return true;
 
                 if (urand(0, 2))
@@ -102,7 +104,7 @@ bool EffectDummyGameObj_spell_dummy_go(Unit* pCaster, uint32 uiSpellId, SpellEff
                         ((Player*)pCaster)->SendNewItem(pItem, 1, true, false);
                 }
 
-                pGOTarget->Delete();                        // sends despawn anim + destroy
+                pGOTarget->SetLootState(GO_JUST_DEACTIVATED);
                 return true;
             }
             return true;
@@ -231,7 +233,15 @@ enum
 
     SAY_SPECIMEN                        = -1000581,
     NPC_NEXUS_DRAKE_HATCHLING           = 26127,
-    SPELL_RAELORASZ_FIREBALL            = 46704
+    SPELL_RAELORASZ_FIREBALL            = 46704,
+
+    // Quest "Disrupt the Greengill Coast" (11541)
+    SPELL_ORB_OF_MURLOC_CONTROL         = 45109,
+    SPELL_GREENGILL_SLAVE_FREED         = 45110,
+    SPELL_ENRAGE                        = 45111,
+    NPC_FREED_GREENGILL_SLAVE           = 25085,
+    NPC_DARKSPINE_MYRMIDON              = 25060,
+    NPC_DARKSPINE_SIREN                 = 25073
 };
 
 bool EffectAuraDummy_spell_aura_dummy_npc(const Aura* pAura, bool bApply)
@@ -326,6 +336,25 @@ bool EffectAuraDummy_spell_aura_dummy_npc(const Aura* pAura, bool bApply)
                 }
             }
             return true;
+        }
+        case SPELL_ENRAGE:
+        {
+            if (pAura->GetTarget()->GetTypeId() != TYPEID_UNIT || !bApply)
+                return false;
+
+            if (Creature* pCreature = GetClosestCreatureWithEntry(pAura->GetTarget(), NPC_DARKSPINE_MYRMIDON, 25.0f))
+            {
+                dynamic_cast<Creature*>(pAura->GetTarget())->AI()->AttackStart(pCreature);
+                return true;
+            }
+
+            if (Creature* pCreature = GetClosestCreatureWithEntry(pAura->GetTarget(), NPC_DARKSPINE_SIREN, 25.0f))
+            {
+                dynamic_cast<Creature*>(pAura->GetTarget())->AI()->AttackStart(pCreature);
+                return true;
+            }
+
+            return false;
         }
     }
 
@@ -587,6 +616,17 @@ bool EffectDummyCreature_spell_dummy_npc(Unit* pCaster, uint32 uiSpellId, SpellE
                 }
                 return true;
             }
+            return true;
+        }
+        case SPELL_ORB_OF_MURLOC_CONTROL:
+        {
+            pCreatureTarget->CastSpell(pCaster, SPELL_GREENGILL_SLAVE_FREED, true);
+
+            if (pCreatureTarget->GetTypeId() == TYPEID_UNIT)
+                dynamic_cast<Creature*>(pCreatureTarget)->UpdateEntry(NPC_FREED_GREENGILL_SLAVE); // Freed Greengill Slave
+
+            pCreatureTarget->CastSpell(pCreatureTarget, SPELL_ENRAGE, true);
+
             return true;
         }
     }

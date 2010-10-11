@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/nexus/nexus
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-05-04T12:17:06.920751Z
-1683
+2010-08-28T07:42:48.335059Z
+1814
 nofantasy
 
 
@@ -168,10 +168,10 @@ file
 
 
 
-2010-07-31T09:05:53.880058Z
-00283657171a7b0d44a1eff6fcb14d48
-2010-05-04T12:17:06.920751Z
-1683
+2010-10-11T20:30:55.812500Z
+f6adb689dffd3b691bd6a11496d0ad59
+2010-08-28T07:42:48.335059Z
+1814
 nofantasy
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-6860
+6857
 
 boss_telestra.cpp
 file

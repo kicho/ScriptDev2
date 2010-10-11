@@ -1,15 +1,15 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/include
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-23T15:25:59.924930Z
-1796
-deverend
+2010-09-22T08:11:55.008365Z
+1828
+nofantasy
 
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-07-31T09:05:46.175306Z
-ab128a3ba7b941e3b04df50275b67f2b
-2010-05-04T07:58:09.551009Z
-1682
+2010-10-11T20:30:46.906250Z
+99031bb497354dafe66e0d226f3091d9
+2010-09-22T08:11:55.008365Z
+1828
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-3153
+3326
 
 sc_instance.h
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-08-23T19:39:20.843750Z
-2c2d645cf59e1bc8de7228dbeca39522
-2010-08-23T15:25:59.924930Z
-1796
-deverend
+2010-10-11T20:30:47.000000Z
+33a13a09cdaff9227d03ed423725676e
+2010-09-22T08:11:55.008365Z
+1828
+nofantasy
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-19650
+19633
 
 precompiled.cpp
 file
@@ -270,10 +270,10 @@ file
 
 
 
-2010-07-31T09:05:46.222191Z
-459f2ae89aa7b2fc347baaf2cae3832b
-2010-05-04T07:58:09.551009Z
-1682
+2010-10-11T20:30:47.031250Z
+735141a390e4c6e119b81d9c4472b30b
+2010-09-22T08:11:55.008365Z
+1828
 nofantasy
 has-props
 
@@ -296,7 +296,7 @@ has-props
 
 
 
-2068
+2052
 
 sc_instance.cpp
 file
@@ -304,11 +304,11 @@ file
 
 
 
-2010-07-31T09:05:46.237819Z
-3e08c62fc4e28e92272f944f461579a7
-2010-01-01T23:51:11.692998Z
-1537
-nofantasy
+2010-10-11T20:30:47.046875Z
+cd1114b78d68c39f6dd7a41feaf359b8
+2010-09-18T16:03:31.161397Z
+1823
+deverend
 has-props
 
 
@@ -330,5 +330,5 @@ has-props
 
 
 
-2184
+2185
 

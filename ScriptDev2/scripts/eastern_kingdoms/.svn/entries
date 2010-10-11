@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-23T15:25:59.924930Z
-1796
+2010-09-25T15:21:38.333910Z
+1829
 deverend
 
 
@@ -347,40 +347,6 @@ has-props
 scarlet_enclave
 dir
 
-hinterlands.cpp
-file
-
-
-
-
-2010-07-31T09:06:06.179530Z
-b11044c9d6a8d86fedbd311a3536433f
-2010-07-21T17:25:53.971647Z
-1746
-deverend
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10221
-
 searing_gorge.cpp
 file
 
@@ -415,7 +381,44 @@ has-props
 
 5595
 
+hinterlands.cpp
+file
+
+
+
+
+2010-07-31T09:06:06.179530Z
+b11044c9d6a8d86fedbd311a3536433f
+2010-07-21T17:25:53.971647Z
+1746
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10221
+
 blackrock_spire
+dir
+
+scarlet_monastery
 dir
 
 isle_of_queldanas.cpp
@@ -452,12 +455,6 @@ has-props
 
 2548
 
-scarlet_monastery
-dir
-
-karazhan
-dir
-
 stormwind_city.cpp
 file
 
@@ -492,42 +489,8 @@ has-props
 
 8199
 
-blackrock_depths
+karazhan
 dir
-
-wetlands.cpp
-file
-
-
-
-
-2010-07-31T09:06:06.195158Z
-8fb2ce3e063ddcca823aa8278048c446
-2010-07-21T17:25:53.971647Z
-1746
-deverend
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4636
 
 westfall.cpp
 file
@@ -563,14 +526,14 @@ has-props
 
 9127
 
-redridge_mountains.cpp
+wetlands.cpp
 file
 
 
 
 
-2010-07-31T09:06:06.210786Z
-5c5dfb3ccdfe1f1afab63962a982a69d
+2010-07-31T09:06:06.195158Z
+8fb2ce3e063ddcca823aa8278048c446
 2010-07-21T17:25:53.971647Z
 1746
 deverend
@@ -595,7 +558,44 @@ has-props
 
 
 
-4551
+4636
+
+blackrock_depths
+dir
+
+redridge_mountains.cpp
+file
+
+
+
+
+2010-10-11T20:31:00.406250Z
+6cea84ef018e32d9039818bf6ed49e6d
+2010-08-28T07:42:48.335059Z
+1814
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4547
 
 sunwell_plateau
 dir
@@ -607,9 +607,6 @@ zulaman
 dir
 
 blackwing_lair
-dir
-
-sunken_temple
 dir
 
 boss_kruul.cpp
@@ -645,6 +642,9 @@ has-props
 
 
 5408
+
+sunken_temple
+dir
 
 arathi_highlands.cpp
 file

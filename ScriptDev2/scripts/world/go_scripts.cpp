@@ -38,7 +38,7 @@ go_tablet_of_madness
 go_tablet_of_the_seven
 go_tele_to_dalaran_crystal
 go_tele_to_violet_stand
-go_beacon_torch
+go_andorhal_tower
 go_scourge_enclosure
 EndContentData */
 
@@ -225,7 +225,7 @@ enum
 
 bool GOHello_go_field_repair_bot_74A(Player* pPlayer, GameObject* pGo)
 {
-    if (pPlayer->HasSkill(SKILL_ENGINERING) && pPlayer->GetBaseSkillValue(SKILL_ENGINERING) >= 300 && !pPlayer->HasSpell(SPELL_ENGINEER_FIELD_REPAIR_BOT_74A))
+    if (pPlayer->HasSkill(SKILL_ENGINEERING) && pPlayer->GetBaseSkillValue(SKILL_ENGINEERING) >= 300 && !pPlayer->HasSpell(SPELL_ENGINEER_FIELD_REPAIR_BOT_74A))
         pPlayer->CastSpell(pPlayer, SPELL_LEARN_FIELD_REPAIR_BOT_74A, false);
 
     return true;
@@ -432,20 +432,20 @@ enum
     SAY_AGGRO                 = -1000579
 };
 
-float Position[4] = {-327.99f, 221.74f, -20.31f, 3.87f}; 
+float Position[4] = {-327.99f, 221.74f, -20.31f, 3.87f};
 
 bool GOHello_go_blood_filled_orb(Player* pPlayer, GameObject* pGo)
 {
     if (Creature* pZelemar = pGo->SummonCreature(NPC_ZELEMAR_THE_WRATHFULL, Position[0], Position[1], Position[2], Position[3], TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT, 30000))
     {
         DoScriptText(SAY_AGGRO, pZelemar);
-        pZelemar->AI()->AttackStart(pPlayer);     
+        pZelemar->AI()->AttackStart(pPlayer);
     }
     return false;
 }
 
 /*######
-## go_beacon_torch
+## go_andorhal_tower
 ######*/
 
 enum
@@ -455,23 +455,27 @@ enum
     NPC_ANDORHAL_TOWER_1                     = 10902,
     NPC_ANDORHAL_TOWER_2                     = 10903,
     NPC_ANDORHAL_TOWER_3                     = 10904,
-    NPC_ANDORHAL_TOWER_4                     = 10905
+    NPC_ANDORHAL_TOWER_4                     = 10905,
+    GO_ANDORHAL_TOWER_1                      = 176094,
+    GO_ANDORHAL_TOWER_2                      = 176095,
+    GO_ANDORHAL_TOWER_3                      = 176096,
+    GO_ANDORHAL_TOWER_4                      = 176097
 };
 
-static const uint32 m_aTowerDummies[] = {NPC_ANDORHAL_TOWER_1, NPC_ANDORHAL_TOWER_2, NPC_ANDORHAL_TOWER_3, NPC_ANDORHAL_TOWER_4};
-
-bool GOHello_go_beacon_torch(Player* pPlayer, GameObject* pGo)
+bool GOHello_go_andorhal_tower(Player* pPlayer, GameObject* pGo)
 {
     if (pPlayer->GetQuestStatus(QUEST_ALL_ALONG_THE_WATCHTOWERS_ALLIANCE) == QUEST_STATUS_INCOMPLETE || pPlayer->GetQuestStatus(QUEST_ALL_ALONG_THE_WATCHTOWERS_HORDE) == QUEST_STATUS_INCOMPLETE)
     {
-        for (uint8 i = 0; i < 4; ++i)
+        uint32 uiKillCredit = 0;
+        switch(pGo->GetEntry())
         {
-            if (GetClosestCreatureWithEntry(pPlayer, m_aTowerDummies[i], 2*INTERACTION_DISTANCE))
-            {
-                pPlayer->KilledMonsterCredit(m_aTowerDummies[i]);
-                break;
-            }
+            case GO_ANDORHAL_TOWER_1:   uiKillCredit = NPC_ANDORHAL_TOWER_1;   break;
+            case GO_ANDORHAL_TOWER_2:   uiKillCredit = NPC_ANDORHAL_TOWER_2;   break;
+            case GO_ANDORHAL_TOWER_3:   uiKillCredit = NPC_ANDORHAL_TOWER_3;   break;
+            case GO_ANDORHAL_TOWER_4:   uiKillCredit = NPC_ANDORHAL_TOWER_4;   break;
         }
+        if (uiKillCredit)
+            pPlayer->KilledMonsterCredit(uiKillCredit);
     }
     return true;
 }
@@ -602,8 +606,8 @@ void AddSC_go_scripts()
     pNewScript->RegisterSelf();
 
     pNewScript = new Script;
-    pNewScript->Name = "go_beacon_torch";
-    pNewScript->pGOHello =          &GOHello_go_beacon_torch;
+    pNewScript->Name = "go_andorhal_tower";
+    pNewScript->pGOHello =          &GOHello_go_andorhal_tower;
     pNewScript->RegisterSelf();
 
     pNewScript = new Script;

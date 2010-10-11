@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svnroot/scriptdev2/!svn/ver/1800/scripts/world
+/svnroot/scriptdev2/!svn/ver/1834/scripts/world
 END
 boss_lethon.cpp
 K 25
@@ -13,7 +13,7 @@ areatrigger_scripts.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/scriptdev2/!svn/ver/1780/scripts/world/areatrigger_scripts.cpp
+/svnroot/scriptdev2/!svn/ver/1814/scripts/world/areatrigger_scripts.cpp
 END
 mob_generic_creature.cpp
 K 25
@@ -49,7 +49,7 @@ spell_scripts.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/scriptdev2/!svn/ver/1780/scripts/world/spell_scripts.cpp
+/svnroot/scriptdev2/!svn/ver/1834/scripts/world/spell_scripts.cpp
 END
 boss_ysondre.cpp
 K 25
@@ -61,13 +61,13 @@ npc_professions.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/scriptdev2/!svn/ver/1573/scripts/world/npc_professions.cpp
+/svnroot/scriptdev2/!svn/ver/1816/scripts/world/npc_professions.cpp
 END
 go_scripts.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/svnroot/scriptdev2/!svn/ver/1800/scripts/world/go_scripts.cpp
+/svnroot/scriptdev2/!svn/ver/1819/scripts/world/go_scripts.cpp
 END
 boss_emeriss.cpp
 K 25

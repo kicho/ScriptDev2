@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/crusaders_coliseum/trial_of_the_crusader
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-03-06T08:54:41.790006Z
-1634
+2010-08-27T23:08:16.222977Z
+1810
 nofantasy
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2010-07-31T09:05:50.941937Z
-27c22c31021b08f20fe8527ac3a71ca1
-2010-03-05T22:17:00.424098Z
-1632
-deverend
+2010-10-11T20:30:50.640625Z
+41dc438aac2cd929307981f4ce7cb447
+2010-08-27T23:08:16.222977Z
+1810
+nofantasy
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-2735
+2687
 
 boss_faction_champions.cpp
 file

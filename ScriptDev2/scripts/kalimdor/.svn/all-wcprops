@@ -1,25 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/svnroot/scriptdev2/!svn/ver/1800/scripts/kalimdor
-END
-felwood.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svnroot/scriptdev2/!svn/ver/1800/scripts/kalimdor/felwood.cpp
-END
-dustwallow_marsh.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svnroot/scriptdev2/!svn/ver/1746/scripts/kalimdor/dustwallow_marsh.cpp
+/svnroot/scriptdev2/!svn/ver/1838/scripts/kalimdor
 END
 orgrimmar.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svnroot/scriptdev2/!svn/ver/1777/scripts/kalimdor/orgrimmar.cpp
+END
+dustwallow_marsh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/scriptdev2/!svn/ver/1836/scripts/kalimdor/dustwallow_marsh.cpp
+END
+felwood.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/scriptdev2/!svn/ver/1806/scripts/kalimdor/felwood.cpp
 END
 tanaris.cpp
 K 25
@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 64
 /svnroot/scriptdev2/!svn/ver/1782/scripts/kalimdor/moonglade.cpp
 END
-teldrassil.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svnroot/scriptdev2/!svn/ver/1537/scripts/kalimdor/teldrassil.cpp
-END
 ashenvale.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svnroot/scriptdev2/!svn/ver/1746/scripts/kalimdor/ashenvale.cpp
+END
+teldrassil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/scriptdev2/!svn/ver/1537/scripts/kalimdor/teldrassil.cpp
 END
 ungoro_crater.cpp
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svnroot/scriptdev2/!svn/ver/1746/scripts/kalimdor/feralas.cpp
 END
+azuremyst_isle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/scriptdev2/!svn/ver/1820/scripts/kalimdor/azuremyst_isle.cpp
+END
 desolace.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svnroot/scriptdev2/!svn/ver/1587/scripts/kalimdor/desolace.cpp
-END
-azuremyst_isle.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svnroot/scriptdev2/!svn/ver/1777/scripts/kalimdor/azuremyst_isle.cpp
 END
 darkshore.cpp
 K 25

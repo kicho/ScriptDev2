@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svnroot/scriptdev2/!svn/ver/1796/scripts/outland
+/svnroot/scriptdev2/!svn/ver/1837/scripts/outland
 END
 boss_doomlord_kazzak.cpp
 K 25
@@ -13,7 +13,7 @@ terokkar_forest.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1780/scripts/outland/terokkar_forest.cpp
+/svnroot/scriptdev2/!svn/ver/1826/scripts/outland/terokkar_forest.cpp
 END
 hellfire_peninsula.cpp
 K 25

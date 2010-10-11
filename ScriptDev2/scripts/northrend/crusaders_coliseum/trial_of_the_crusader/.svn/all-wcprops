@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svnroot/scriptdev2/!svn/ver/1634/scripts/northrend/crusaders_coliseum/trial_of_the_crusader
+/svnroot/scriptdev2/!svn/ver/1810/scripts/northrend/crusaders_coliseum/trial_of_the_crusader
 END
 boss_twin_valkyr.cpp
 K 25
@@ -19,7 +19,7 @@ trial_of_the_crusader.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 118
-/svnroot/scriptdev2/!svn/ver/1632/scripts/northrend/crusaders_coliseum/trial_of_the_crusader/trial_of_the_crusader.cpp
+/svnroot/scriptdev2/!svn/ver/1810/scripts/northrend/crusaders_coliseum/trial_of_the_crusader/trial_of_the_crusader.cpp
 END
 boss_faction_champions.cpp
 K 25

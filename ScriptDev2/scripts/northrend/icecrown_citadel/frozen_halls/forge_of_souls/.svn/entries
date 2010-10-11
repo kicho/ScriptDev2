@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/icecrown_citadel/frozen_halls/forge_of_souls
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-02-03T17:13:41.143954Z
-1564
+2010-09-19T01:08:36.834199Z
+1825
 deverend
 
 
@@ -26,16 +26,16 @@ deverend
 
 5f9c896b-1e26-0410-94da-f77f675e2462
 
-boss_bronjahm.cpp
+instance_forge_of_souls.cpp
 file
 
 
 
 
-2010-07-31T09:05:52.473511Z
-d85172afcfa44a3abd071c12bb65c0db
-2010-02-03T17:13:41.143954Z
-1564
+2010-10-11T20:30:54.734375Z
+bde462645fed4c67da4ad3712b77af9d
+2010-09-19T01:08:36.834199Z
+1825
 deverend
 has-props
 
@@ -58,7 +58,75 @@ has-props
 
 
 
-961
+8084
+
+forge_of_souls.h
+file
+
+
+
+
+2010-10-11T20:30:54.750000Z
+200c09fc0bbc7f78d0a14e6484950438
+2010-09-19T01:08:36.834199Z
+1825
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6806
+
+boss_bronjahm.cpp
+file
+
+
+
+
+2010-10-11T20:30:54.781250Z
+3c1a4bb3092768ac37135f885f10ba09
+2010-09-19T01:08:36.834199Z
+1825
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2880
 
 boss_devourer_of_souls.cpp
 file
@@ -66,10 +134,10 @@ file
 
 
 
-2010-07-31T09:05:52.489139Z
-0ade59102595bb21019dd2a7f2a16f39
-2010-02-03T17:13:41.143954Z
-1564
+2010-10-11T20:30:54.906250Z
+215ba8f5b9b176301821929d02317691
+2010-09-19T01:08:36.834199Z
+1825
 deverend
 has-props
 
@@ -92,5 +160,5 @@ has-props
 
 
 
-970
+4535
 

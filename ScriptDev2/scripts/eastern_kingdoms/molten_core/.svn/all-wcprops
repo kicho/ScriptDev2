@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/scriptdev2/!svn/ver/1796/scripts/eastern_kingdoms/molten_core
+/svnroot/scriptdev2/!svn/ver/1829/scripts/eastern_kingdoms/molten_core
 END
 boss_gehennas.cpp
 K 25
@@ -49,7 +49,7 @@ molten_core.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/1796/scripts/eastern_kingdoms/molten_core/molten_core.cpp
+/svnroot/scriptdev2/!svn/ver/1829/scripts/eastern_kingdoms/molten_core/molten_core.cpp
 END
 boss_baron_geddon.cpp
 K 25

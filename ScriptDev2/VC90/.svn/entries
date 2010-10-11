@@ -1,14 +1,14 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/VC90
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-23T12:47:30.675925Z
-1794
+2010-09-26T14:47:04.631049Z
+1833
 deverend
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-08-23T19:39:19.468750Z
-f651df8dd78166c923cc2e8935104e93
-2010-08-23T12:47:30.675925Z
-1794
+2010-10-11T20:30:46.484375Z
+b068320a7018becc2b4940939d5fb02e
+2010-09-26T14:47:04.631049Z
+1833
 deverend
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-75561
+77891
 

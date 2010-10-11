@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/scriptdev2/!svn/ver/1775/scripts/northrend/ulduar/halls_of_lightning
+/svnroot/scriptdev2/!svn/ver/1812/scripts/northrend/ulduar/halls_of_lightning
 END
 boss_ionar.cpp
 K 25
@@ -37,5 +37,5 @@ boss_volkhan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/scriptdev2/!svn/ver/1774/scripts/northrend/ulduar/halls_of_lightning/boss_volkhan.cpp
+/svnroot/scriptdev2/!svn/ver/1812/scripts/northrend/ulduar/halls_of_lightning/boss_volkhan.cpp
 END

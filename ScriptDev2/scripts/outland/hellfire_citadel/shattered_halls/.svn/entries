@@ -1,15 +1,15 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/hellfire_citadel/shattered_halls
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-10T21:22:19.433882Z
-1776
-nofantasy
+2010-10-08T03:01:14.607473Z
+1837
+deverend
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-08-16T19:46:27.906250Z
-96302dfe20df1fafd5060b4a67e1f84c
-2010-08-10T21:22:19.433882Z
-1776
-nofantasy
+2010-10-11T20:30:56.453125Z
+0ea6db457ff9438fa71ec261ff0054e2
+2010-10-08T03:01:14.607473Z
+1837
+deverend
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-12799
+12724
 
 instance_shattered_halls.cpp
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-07-31T09:05:55.739825Z
-3d9dfe28cd930708b0087d5466dbefaf
-2010-01-01T23:51:11.692998Z
-1537
-nofantasy
+2010-10-11T20:30:56.546875Z
+0a99b53ef6cc970c5a131f6c2eafa91e
+2010-10-08T03:01:14.607473Z
+1837
+deverend
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-3479
+3429
 
 shattered_halls.h
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-07-31T09:05:55.755454Z
-8722c6f1223af9d4f8139d3ef5306535
-2010-01-01T23:51:11.692998Z
-1537
-nofantasy
+2010-10-11T20:30:56.593750Z
+ac9b0681a31a8e12d50fc6a40147c141
+2010-10-08T03:01:14.607473Z
+1837
+deverend
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-419
+452
 
 boss_warchief_kargath_bladefist.cpp
 file

@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1793/scripts/kalimdor/caverns_of_time/old_hillsbrad
+/svnroot/scriptdev2/!svn/ver/1804/scripts/kalimdor/caverns_of_time/old_hillsbrad
 END
 old_hillsbrad.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 98
-/svnroot/scriptdev2/!svn/ver/1793/scripts/kalimdor/caverns_of_time/old_hillsbrad/old_hillsbrad.cpp
+/svnroot/scriptdev2/!svn/ver/1804/scripts/kalimdor/caverns_of_time/old_hillsbrad/old_hillsbrad.cpp
 END
 boss_captain_skarloc.cpp
 K 25
@@ -19,13 +19,13 @@ instance_old_hillsbrad.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 107
-/svnroot/scriptdev2/!svn/ver/1792/scripts/kalimdor/caverns_of_time/old_hillsbrad/instance_old_hillsbrad.cpp
+/svnroot/scriptdev2/!svn/ver/1804/scripts/kalimdor/caverns_of_time/old_hillsbrad/instance_old_hillsbrad.cpp
 END
 old_hillsbrad.h
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svnroot/scriptdev2/!svn/ver/1789/scripts/kalimdor/caverns_of_time/old_hillsbrad/old_hillsbrad.h
+/svnroot/scriptdev2/!svn/ver/1804/scripts/kalimdor/caverns_of_time/old_hillsbrad/old_hillsbrad.h
 END
 boss_epoch_hunter.cpp
 K 25

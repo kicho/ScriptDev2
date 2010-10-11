@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/nexus/nexus
+/svnroot/scriptdev2/!svn/ver/1814/scripts/northrend/nexus/nexus
 END
 boss_ormorok.cpp
 K 25
@@ -31,7 +31,7 @@ boss_keristrasza.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/nexus/nexus/boss_keristrasza.cpp
+/svnroot/scriptdev2/!svn/ver/1814/scripts/northrend/nexus/nexus/boss_keristrasza.cpp
 END
 boss_telestra.cpp
 K 25
