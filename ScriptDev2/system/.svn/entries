@@ -1,15 +1,15 @@
 10
 
 dir
-1800
+1839
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/system
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-05T15:58:04.333254Z
-1763
-nofantasy
+2010-09-19T01:08:36.834199Z
+1825
+deverend
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2010-08-16T19:45:56.328125Z
-51db3c0afc49c10a6b30d8262933f346
-2010-08-05T15:58:04.333254Z
-1763
-nofantasy
+2010-10-11T20:30:47.359375Z
+1f60c009ba8cf1a91bfe53ffe77a0dd0
+2010-09-19T01:08:36.834199Z
+1825
+deverend
 has-props
 
 
@@ -160,5 +160,5 @@ has-props
 
 
 
-33122
+33782
 
