@@ -1,7 +1,7 @@
 10
 
 dir
-1839
+1842
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/naxxramas
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
@@ -94,40 +94,6 @@ has-props
 
 11768
 
-boss_anubrekhan.cpp
-file
-
-
-
-
-2010-07-31T09:05:54.473933Z
-2da5e764625246026596790c8ccdc1a0
-2010-05-04T12:17:06.920751Z
-1683
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6316
-
 boss_loatheb.cpp
 file
 
@@ -162,17 +128,17 @@ has-props
 
 5737
 
-naxxramas.h
+boss_anubrekhan.cpp
 file
 
 
 
 
-2010-07-31T09:05:54.505190Z
-12f47a9f35c0deaba46d0f961a5be9d6
-2010-06-14T19:03:18.387081Z
-1711
-deverend
+2010-07-31T09:05:54.473933Z
+2da5e764625246026596790c8ccdc1a0
+2010-05-04T12:17:06.920751Z
+1683
+nofantasy
 has-props
 
 
@@ -194,7 +160,7 @@ has-props
 
 
 
-7815
+6316
 
 boss_faerlina.cpp
 file
@@ -229,6 +195,40 @@ has-props
 
 
 4998
+
+naxxramas.h
+file
+
+
+
+
+2010-07-31T09:05:54.505190Z
+12f47a9f35c0deaba46d0f961a5be9d6
+2010-06-14T19:03:18.387081Z
+1711
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7815
 
 boss_gluth.cpp
 file
@@ -332,40 +332,6 @@ has-props
 
 5778
 
-boss_heigan.cpp
-file
-
-
-
-
-2010-07-31T09:05:54.536446Z
-8d165e0c1437ab1184da4b98796ff344
-2010-03-05T01:12:44.447029Z
-1627
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7120
-
 boss_kelthuzad.cpp
 file
 
@@ -399,6 +365,40 @@ has-props
 
 
 19549
+
+boss_heigan.cpp
+file
+
+
+
+
+2010-07-31T09:05:54.536446Z
+8d165e0c1437ab1184da4b98796ff344
+2010-03-05T01:12:44.447029Z
+1627
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7120
 
 instance_naxxramas.cpp
 file

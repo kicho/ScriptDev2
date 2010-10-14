@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/auchindoun/sethekk_halls
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/auchindoun/sethekk_halls
 END
 instance_sethekk_halls.cpp
 K 25
@@ -19,7 +19,7 @@ boss_tailonking_ikiss.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 100
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/auchindoun/sethekk_halls/boss_tailonking_ikiss.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/auchindoun/sethekk_halls/boss_tailonking_ikiss.cpp
 END
 boss_darkweaver_syth.cpp
 K 25

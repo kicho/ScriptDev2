@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/tempest_keep/the_mechanar
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/tempest_keep/the_mechanar
 END
 boss_gatewatcher_gyrokill.cpp
 K 25
@@ -13,7 +13,7 @@ boss_nethermancer_sepethrea.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 107
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/tempest_keep/the_mechanar/boss_nethermancer_sepethrea.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/tempest_keep/the_mechanar/boss_nethermancer_sepethrea.cpp
 END
 instance_mechanar.cpp
 K 25
@@ -37,5 +37,5 @@ boss_pathaleon_the_calculator.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 109
-/svnroot/scriptdev2/!svn/ver/1683/scripts/outland/tempest_keep/the_mechanar/boss_pathaleon_the_calculator.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/tempest_keep/the_mechanar/boss_pathaleon_the_calculator.cpp
 END

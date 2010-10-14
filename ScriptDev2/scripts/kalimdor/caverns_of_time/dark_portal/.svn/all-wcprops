@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/scriptdev2/!svn/ver/1838/scripts/kalimdor/caverns_of_time/dark_portal
+/svnroot/scriptdev2/!svn/ver/1842/scripts/kalimdor/caverns_of_time/dark_portal
 END
 boss_aeonus.cpp
 K 25
@@ -19,7 +19,7 @@ dark_portal.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/scriptdev2/!svn/ver/1838/scripts/kalimdor/caverns_of_time/dark_portal/dark_portal.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/kalimdor/caverns_of_time/dark_portal/dark_portal.cpp
 END
 boss_temporus.cpp
 K 25

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svnroot/scriptdev2/!svn/ver/1833/scripts/northrend
+/svnroot/scriptdev2/!svn/ver/1842/scripts/northrend
 END
 sholazar_basin.cpp
 K 25
@@ -55,5 +55,5 @@ zuldrak.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/scriptdev2/!svn/ver/1732/scripts/northrend/zuldrak.cpp
+/svnroot/scriptdev2/!svn/ver/1841/scripts/northrend/zuldrak.cpp
 END

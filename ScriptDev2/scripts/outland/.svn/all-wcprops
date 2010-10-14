@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svnroot/scriptdev2/!svn/ver/1837/scripts/outland
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland
 END
 boss_doomlord_kazzak.cpp
 K 25
@@ -25,7 +25,7 @@ nagrand.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland/nagrand.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/nagrand.cpp
 END
 netherstorm.cpp
 K 25
@@ -55,7 +55,7 @@ blades_edge_mountains.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/scriptdev2/!svn/ver/1585/scripts/outland/blades_edge_mountains.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/blades_edge_mountains.cpp
 END
 zangarmarsh.cpp
 K 25

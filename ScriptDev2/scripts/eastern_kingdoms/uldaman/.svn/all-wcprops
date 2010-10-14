@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/uldaman
+/svnroot/scriptdev2/!svn/ver/1842/scripts/eastern_kingdoms/uldaman
 END
 uldaman.cpp
 K 25
@@ -19,7 +19,7 @@ instance_uldaman.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/uldaman/instance_uldaman.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/eastern_kingdoms/uldaman/instance_uldaman.cpp
 END
 uldaman.h
 K 25

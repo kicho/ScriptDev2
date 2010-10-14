@@ -1,15 +1,15 @@
 10
 
 dir
-1839
+1842
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/scholomance
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-10T21:22:19.433882Z
-1776
-nofantasy
+2010-10-14T20:31:11.897438Z
+1842
+deverend
 
 
 
@@ -304,11 +304,11 @@ file
 
 
 
-2010-07-31T09:06:05.679424Z
-1f1ad88e1d3b9b9c13cef3ba8c8466ae
-2010-05-04T12:17:06.920751Z
-1683
-nofantasy
+2010-10-14T20:32:41.875000Z
+14c8c63ec02412b6ae563043b55f12d3
+2010-10-14T20:31:11.897438Z
+1842
+deverend
 has-props
 
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-3037
+3036
 
 boss_kormok.cpp
 file

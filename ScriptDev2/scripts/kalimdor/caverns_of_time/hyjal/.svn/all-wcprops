@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/scriptdev2/!svn/ver/1777/scripts/kalimdor/caverns_of_time/hyjal
+/svnroot/scriptdev2/!svn/ver/1842/scripts/kalimdor/caverns_of_time/hyjal
 END
 boss_archimonde.cpp
 K 25
@@ -13,7 +13,7 @@ hyjalAI.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1774/scripts/kalimdor/caverns_of_time/hyjal/hyjalAI.cpp
+/svnroot/scriptdev2/!svn/ver/1842/scripts/kalimdor/caverns_of_time/hyjal/hyjalAI.cpp
 END
 hyjalAI.h
 K 25
