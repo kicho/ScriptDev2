@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svnroot/scriptdev2/!svn/ver/1842/scripts/world
+/svnroot/scriptdev2/!svn/ver/1843/scripts/world
 END
 boss_lethon.cpp
 K 25
@@ -49,7 +49,7 @@ spell_scripts.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/scriptdev2/!svn/ver/1834/scripts/world/spell_scripts.cpp
+/svnroot/scriptdev2/!svn/ver/1843/scripts/world/spell_scripts.cpp
 END
 boss_ysondre.cpp
 K 25
