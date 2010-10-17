@@ -4,6 +4,37 @@ UPDATE `creature_template` SET `ScriptName`='mob_dark_rider_of_acherus',ainame="
 
 -- The Gift That Keeps On Giving
 UPDATE `creature_template` SET `ScriptName`='mob_scarlet_miner',ainame="" WHERE `entry`='28822';
+-- Quest The Gift That Keeps On Giving
+-- item spell script targets (Scarlet Miners)
+DELETE FROM spell_script_target WHERE entry = 52479;
+INSERT INTO spell_script_target VALUES
+(52479, 1, 28819),
+(52479, 1, 28822),
+(52479, 1, 28841);
+UPDATE `creature_template` SET `AIName` = "EventAI" WHERE `entry` = 28846;
+UPDATE `creature_template` SET `ScriptName` = "mob_scarlet_ghoul" WHERE `entry` = 28845;
+DELETE FROM `creature_ai_texts` WHERE `entry` IN (-286102, -286101, -286100);
+INSERT INTO `creature_ai_texts` VALUES
+(-286100, "Die, Scourge filth!", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, "Scarlet Ghost SAY1"),
+(-286101, "It won't be that easy, friend!", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, "Scarlet Ghost SAY2"),
+(-286102, "I'll take you with me!", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, "Scarlet Ghost SAY3");
+DELETE FROM `creature_ai_scripts` WHERE `creature_id` = 28846;
+INSERT INTO `creature_ai_scripts` VALUES
+(2884601, 28846, 11, 0, 100, 0, 0, 0, 0, 0, 1, -286100, -286101, -286102, 0, 0, 0, 0, 0, 0, 0, 0, "Scarlet Ghost - Random say at spawn");
+-- Quest The Gift That Keeps On Giving - script texts
+DELETE FROM script_texts WHERE entry BETWEEN -1609286 AND -1609276;
+INSERT INTO `script_texts` (`entry`,`content_default`,`sound`,`type`,`language`,`emote`,`comment`) VALUES
+(-1609286, "Smell flesh... close...",0,0,0,0,"SAY_SCARLET_GHOUL_SPAWN1"),
+(-1609285, "The grave calls to us all!",0,0,0,0,"SAY_SCARLET_GHOUL_SPAWN2"),
+(-1609284, "GIVE ME BRAINS!",0,0,0,0,"SAY_SCARLET_GHOUL_SPAWN3"),
+(-1609283, "Poppy!",0,0,0,0,"SAY_SCARLET_GHOUL_SPAWN4"),
+(-1609282, "Mommy?",0,0,0,0,"SAY_SCARLET_GHOUL_SPAWN5"),
+(-1609281, "So hungry...",0,0,0,0,"SAY_SCARLET_GHOUL_SPAWN6"),
+(-1609280, "The pit calls, minion. Go to it, NOW!",0,0,0,0,"SAY_SCARLET_GOTHIK1"),
+(-1609279, "GHOUL! PIT! NOW!",0,0,0,0,"SAY_SCARLET_GOTHIK2"),
+(-1609278, "Back you mindless wretch! Back to the pit!",0,0,0,0,"SAY_SCARLET_GOTHIK3"),
+(-1609277, "It puts the ghoul in the pit or else it gets the lash!",0,0,0,0,"SAY_SCARLET_GOTHIK4"),
+(-1609276, "Get in the pit you worthless pile of garbage!",0,0,0,0,"SAY_SCARLET_GOTHIK5");
 
 -- How To Win Friends And Influence Enemies
 UPDATE `creature_template` SET `ScriptName`='npc_crusade_persuaded',ainame="" WHERE `entry` IN (28939,28940,28610);
