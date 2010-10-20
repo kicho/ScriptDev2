@@ -1,14 +1,14 @@
 10
 
 dir
-1843
+1844
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-10-17T11:44:52.379995Z
-1843
+2010-10-17T13:41:40.937838Z
+1844
 nofantasy
 
 
@@ -72,10 +72,10 @@ file
 
 
 
-2010-10-17T11:46:14.718750Z
-f28c0cfe41be5a20892ac17fe5f0e458
-2010-10-17T11:44:52.379995Z
-1843
+2010-10-20T09:43:14.625000Z
+5c0ba4dbde0e0c68cecc1168c393315b
+2010-10-17T13:41:40.937838Z
+1844
 nofantasy
 has-props
 
@@ -98,7 +98,7 @@ has-props
 
 
 
-78359
+78449
 
 scriptdev2_script_full.sql
 file
