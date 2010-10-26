@@ -1,7 +1,7 @@
 10
 
 dir
-1844
+1847
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
@@ -347,40 +347,6 @@ has-props
 scarlet_enclave
 dir
 
-hinterlands.cpp
-file
-
-
-
-
-2010-07-31T09:06:06.179530Z
-b11044c9d6a8d86fedbd311a3536433f
-2010-07-21T17:25:53.971647Z
-1746
-deverend
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10221
-
 searing_gorge.cpp
 file
 
@@ -415,7 +381,44 @@ has-props
 
 5595
 
+hinterlands.cpp
+file
+
+
+
+
+2010-07-31T09:06:06.179530Z
+b11044c9d6a8d86fedbd311a3536433f
+2010-07-21T17:25:53.971647Z
+1746
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10221
+
 blackrock_spire
+dir
+
+scarlet_monastery
 dir
 
 isle_of_queldanas.cpp
@@ -452,12 +455,6 @@ has-props
 
 2548
 
-scarlet_monastery
-dir
-
-karazhan
-dir
-
 stormwind_city.cpp
 file
 
@@ -492,8 +489,42 @@ has-props
 
 8199
 
-blackrock_depths
+karazhan
 dir
+
+westfall.cpp
+file
+
+
+
+
+2010-08-03T19:07:49.718750Z
+39958ce1b456c1a6351455fb30259645
+2010-08-02T22:51:04.264805Z
+1756
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9127
 
 wetlands.cpp
 file
@@ -529,39 +560,8 @@ has-props
 
 4636
 
-westfall.cpp
-file
-
-
-
-
-2010-08-03T19:07:49.718750Z
-39958ce1b456c1a6351455fb30259645
-2010-08-02T22:51:04.264805Z
-1756
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9127
+blackrock_depths
+dir
 
 redridge_mountains.cpp
 file
@@ -609,9 +609,6 @@ dir
 blackwing_lair
 dir
 
-sunken_temple
-dir
-
 boss_kruul.cpp
 file
 
@@ -645,6 +642,9 @@ has-props
 
 
 5408
+
+sunken_temple
+dir
 
 arathi_highlands.cpp
 file

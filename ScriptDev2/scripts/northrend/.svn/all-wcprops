@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svnroot/scriptdev2/!svn/ver/1842/scripts/northrend
+/svnroot/scriptdev2/!svn/ver/1847/scripts/northrend
 END
 sholazar_basin.cpp
 K 25
@@ -19,7 +19,7 @@ borean_tundra.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1746/scripts/northrend/borean_tundra.cpp
+/svnroot/scriptdev2/!svn/ver/1847/scripts/northrend/borean_tundra.cpp
 END
 dragonblight.cpp
 K 25
