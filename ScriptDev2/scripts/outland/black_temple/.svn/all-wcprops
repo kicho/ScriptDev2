@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/black_temple
+/svnroot/scriptdev2/!svn/ver/1852/scripts/outland/black_temple
 END
 boss_teron_gorefiend.cpp
 K 25
@@ -73,5 +73,5 @@ boss_reliquary_of_souls.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/black_temple/boss_reliquary_of_souls.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/outland/black_temple/boss_reliquary_of_souls.cpp
 END

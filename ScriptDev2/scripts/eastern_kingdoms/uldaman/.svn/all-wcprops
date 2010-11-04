@@ -1,19 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/scriptdev2/!svn/ver/1842/scripts/eastern_kingdoms/uldaman
-END
-uldaman.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/scriptdev2/!svn/ver/1767/scripts/eastern_kingdoms/uldaman/uldaman.cpp
+/svnroot/scriptdev2/!svn/ver/1850/scripts/eastern_kingdoms/uldaman
 END
 boss_archaedas.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /svnroot/scriptdev2/!svn/ver/1777/scripts/eastern_kingdoms/uldaman/boss_archaedas.cpp
+END
+uldaman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/scriptdev2/!svn/ver/1850/scripts/eastern_kingdoms/uldaman/uldaman.cpp
 END
 instance_uldaman.cpp
 K 25
@@ -26,10 +26,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 76
 /svnroot/scriptdev2/!svn/ver/1772/scripts/eastern_kingdoms/uldaman/uldaman.h
-END
-boss_ironaya.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/uldaman/boss_ironaya.cpp
 END

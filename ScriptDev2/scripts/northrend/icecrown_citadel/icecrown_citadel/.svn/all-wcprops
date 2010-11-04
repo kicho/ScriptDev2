@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 104
 /svnroot/scriptdev2/!svn/ver/1564/scripts/northrend/icecrown_citadel/icecrown_citadel/boss_festergut.cpp
 END
-boss_sindragosa.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/svnroot/scriptdev2/!svn/ver/1569/scripts/northrend/icecrown_citadel/icecrown_citadel/boss_sindragosa.cpp
-END
 boss_professor_putricide.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 114
 /svnroot/scriptdev2/!svn/ver/1833/scripts/northrend/icecrown_citadel/icecrown_citadel/boss_professor_putricide.cpp
+END
+boss_sindragosa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/scriptdev2/!svn/ver/1569/scripts/northrend/icecrown_citadel/icecrown_citadel/boss_sindragosa.cpp
 END
 boss_lady_deathwhisper.cpp
 K 25

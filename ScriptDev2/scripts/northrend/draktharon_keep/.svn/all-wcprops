@@ -1,23 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/draktharon_keep
+/svnroot/scriptdev2/!svn/ver/1854/scripts/northrend/draktharon_keep
 END
 boss_trollgore.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/draktharon_keep/boss_trollgore.cpp
+/svnroot/scriptdev2/!svn/ver/1851/scripts/northrend/draktharon_keep/boss_trollgore.cpp
+END
+instance_draktharon_keep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/scriptdev2/!svn/ver/1854/scripts/northrend/draktharon_keep/instance_draktharon_keep.cpp
+END
+draktharon_keep.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/scriptdev2/!svn/ver/1854/scripts/northrend/draktharon_keep/draktharon_keep.h
 END
 boss_novos.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/draktharon_keep/boss_novos.cpp
+/svnroot/scriptdev2/!svn/ver/1851/scripts/northrend/draktharon_keep/boss_novos.cpp
 END
 boss_tharonja.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/draktharon_keep/boss_tharonja.cpp
+/svnroot/scriptdev2/!svn/ver/1851/scripts/northrend/draktharon_keep/boss_tharonja.cpp
 END

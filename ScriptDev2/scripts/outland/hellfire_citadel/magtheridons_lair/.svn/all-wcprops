@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/hellfire_citadel/magtheridons_lair
+/svnroot/scriptdev2/!svn/ver/1852/scripts/outland/hellfire_citadel/magtheridons_lair
 END
 instance_magtheridons_lair.cpp
 K 25
@@ -19,5 +19,5 @@ boss_magtheridon.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 105
-/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/hellfire_citadel/magtheridons_lair/boss_magtheridon.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/outland/hellfire_citadel/magtheridons_lair/boss_magtheridon.cpp
 END

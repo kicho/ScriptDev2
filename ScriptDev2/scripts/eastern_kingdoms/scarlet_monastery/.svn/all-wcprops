@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/scriptdev2/!svn/ver/1774/scripts/eastern_kingdoms/scarlet_monastery
+/svnroot/scriptdev2/!svn/ver/1852/scripts/eastern_kingdoms/scarlet_monastery
 END
 boss_interrogator_vishas.cpp
 K 25
@@ -43,7 +43,7 @@ boss_herod.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/svnroot/scriptdev2/!svn/ver/1746/scripts/eastern_kingdoms/scarlet_monastery/boss_herod.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/eastern_kingdoms/scarlet_monastery/boss_herod.cpp
 END
 boss_headless_horseman.cpp
 K 25

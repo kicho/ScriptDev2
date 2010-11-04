@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/scriptdev2/!svn/ver/1842/scripts/eastern_kingdoms/magisters_terrace
+/svnroot/scriptdev2/!svn/ver/1849/scripts/eastern_kingdoms/magisters_terrace
 END
 magisters_terrace.cpp
 K 25
@@ -37,7 +37,7 @@ boss_vexallus.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/scriptdev2/!svn/ver/1683/scripts/eastern_kingdoms/magisters_terrace/boss_vexallus.cpp
+/svnroot/scriptdev2/!svn/ver/1849/scripts/eastern_kingdoms/magisters_terrace/boss_vexallus.cpp
 END
 boss_priestess_delrissa.cpp
 K 25

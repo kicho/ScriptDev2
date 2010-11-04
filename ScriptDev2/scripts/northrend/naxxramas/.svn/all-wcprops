@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svnroot/scriptdev2/!svn/ver/1777/scripts/northrend/naxxramas
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas
 END
 boss_noth.cpp
 K 25
@@ -13,7 +13,7 @@ boss_four_horsemen.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/scriptdev2/!svn/ver/1601/scripts/northrend/naxxramas/boss_four_horsemen.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_four_horsemen.cpp
 END
 boss_loatheb.cpp
 K 25
@@ -25,13 +25,13 @@ boss_anubrekhan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/naxxramas/boss_anubrekhan.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_anubrekhan.cpp
 END
 boss_faerlina.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/naxxramas/boss_faerlina.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_faerlina.cpp
 END
 naxxramas.h
 K 25
@@ -43,7 +43,7 @@ boss_gluth.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/scriptdev2/!svn/ver/1683/scripts/northrend/naxxramas/boss_gluth.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_gluth.cpp
 END
 boss_gothik.cpp
 K 25
@@ -55,7 +55,7 @@ boss_patchwerk.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1777/scripts/northrend/naxxramas/boss_patchwerk.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_patchwerk.cpp
 END
 boss_kelthuzad.cpp
 K 25
@@ -85,19 +85,19 @@ boss_sapphiron.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1756/scripts/northrend/naxxramas/boss_sapphiron.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_sapphiron.cpp
 END
 boss_grobbulus.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/naxxramas/boss_grobbulus.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_grobbulus.cpp
 END
 boss_thaddius.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/naxxramas/boss_thaddius.cpp
+/svnroot/scriptdev2/!svn/ver/1852/scripts/northrend/naxxramas/boss_thaddius.cpp
 END
 boss_razuvious.cpp
 K 25
