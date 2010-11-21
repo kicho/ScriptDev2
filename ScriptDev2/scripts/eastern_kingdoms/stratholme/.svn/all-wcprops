@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1806/scripts/eastern_kingdoms/stratholme
+/svnroot/scriptdev2/!svn/ver/1884/scripts/eastern_kingdoms/stratholme
 END
 boss_nerubenkan.cpp
 K 25
@@ -67,13 +67,13 @@ instance_stratholme.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/scriptdev2/!svn/ver/1806/scripts/eastern_kingdoms/stratholme/instance_stratholme.cpp
+/svnroot/scriptdev2/!svn/ver/1884/scripts/eastern_kingdoms/stratholme/instance_stratholme.cpp
 END
 stratholme.h
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/scriptdev2/!svn/ver/1784/scripts/eastern_kingdoms/stratholme/stratholme.h
+/svnroot/scriptdev2/!svn/ver/1880/scripts/eastern_kingdoms/stratholme/stratholme.h
 END
 boss_maleki_the_pallid.cpp
 K 25

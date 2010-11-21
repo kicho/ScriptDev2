@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/crusaders_coliseum/trial_of_the_champion
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-10-07T09:06:38.416352Z
-1447
+2010-11-13T19:02:03.202955Z
+1867
 nofantasy
 
 
@@ -25,4 +25,140 @@ nofantasy
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
+
+instance_trial_of_the_champion.cpp
+file
+
+
+
+
+2010-11-21T11:20:41.515625Z
+cb51060e205bb3a9c5d6772e18ae22c3
+2010-11-13T19:02:03.202955Z
+1867
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1139
+
+boss_grand_champions.cpp
+file
+
+
+
+
+2010-11-21T11:20:41.531250Z
+116c7806733a5a7f87527f1273802532
+2010-11-13T19:02:03.202955Z
+1867
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1020
+
+trial_of_the_champion.h
+file
+
+
+
+
+2010-11-21T11:20:41.625000Z
+678b2b3f3db68f4b0b46dcc01c0e6061
+2010-11-13T19:02:03.202955Z
+1867
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+502
+
+trial_of_the_champion.cpp
+file
+
+
+
+
+2010-11-21T11:20:41.640625Z
+275a9b205e3dbfe642824c695e9ddc35
+2010-11-13T19:02:03.202955Z
+1867
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1026
 

@@ -1,15 +1,15 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/outland/coilfang_reservoir/serpent_shrine
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-10-14T20:31:11.897438Z
-1842
-deverend
+2010-11-17T09:03:11.475827Z
+1881
+nofantasy
 
 
 
@@ -59,6 +59,40 @@ has-props
 
 
 12154
+
+boss_the_lurker_below.cpp
+file
+
+
+
+
+2010-11-21T11:20:43.796875Z
+f5b7ce9512fe025ff564239ab58cb4fa
+2010-11-17T09:03:11.475827Z
+1881
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5106
 
 boss_leotheras_the_blind.cpp
 file

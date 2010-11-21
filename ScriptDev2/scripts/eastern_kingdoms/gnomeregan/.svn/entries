@@ -1,15 +1,15 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/gnomeregan
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-09-16T17:36:22.518381Z
-1818
-deverend
+2010-11-17T08:40:27.262051Z
+1880
+nofantasy
 
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2010-11-04T18:33:49.890625Z
-c5728f1b927b4f57e297ecde953b045f
-2010-09-16T17:36:22.518381Z
-1818
-deverend
+2010-11-21T11:20:47.484375Z
+360ccf8ba52ff2cda0f6d7264c6575d3
+2010-11-17T08:40:27.262051Z
+1880
+nofantasy
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-10836
+11311
 
 gnomeregan.h
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-11-04T18:33:49.890625Z
-19cbb3816465de500c1b5089d27d32d1
-2010-09-16T17:36:22.518381Z
-1818
-deverend
+2010-11-21T11:20:47.734375Z
+2200e83ff08407de14b3b8847e023ae1
+2010-11-17T08:40:27.262051Z
+1880
+nofantasy
 has-props
 
 
@@ -160,5 +160,5 @@ has-props
 
 
 
-2898
+2899
 

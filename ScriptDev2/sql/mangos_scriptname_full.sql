@@ -38,6 +38,8 @@ DELETE FROM scripted_areatrigger WHERE entry IN (2026, 2046);
 INSERT INTO scripted_areatrigger VALUES
 (2026, 'at_blackrock_spire'),
 (2046, 'at_blackrock_spire');
+DELETE FROM scripted_areatrigger WHERE entry=5030;
+INSERT INTO scripted_areatrigger VALUES (5030,'at_spearborn_encampment');
 
 /* BATTLEGROUNDS */
 UPDATE creature_template SET ScriptName='npc_spirit_guide' WHERE entry IN (13116, 13117);
@@ -132,7 +134,7 @@ UPDATE creature_template SET ScriptName='npc_tabard_vendor' WHERE entry=28776;
 UPDATE creature_template SET ScriptName='npc_locksmith' WHERE entry IN (29665,29725,29728);
 
 /* SPELL */
-UPDATE creature_template SET ScriptName='spell_dummy_npc' WHERE entry IN (16880,1200,26616,26643,16518,25793,25758,25752,25792,25753,26421,26841,27808,27122,28068,12298,12296,24918,17326,17654,16847,18879,26270,26268,30146,25084,25085,32149);
+UPDATE creature_template SET ScriptName='spell_dummy_npc' WHERE entry IN (16880,1200,26616,26643,16518,25793,25758,25752,25792,25753,26421,26841,27808,27122,28068,12298,12296,24918,17326,17654,16847,18879,26270,26268,30146,25084,25085,32149,22105,29330,29338,29329);
 UPDATE gameobject_template SET ScriptName='spell_dummy_go' WHERE entry IN (181616,186949);
 
 /*  */
@@ -432,7 +434,9 @@ UPDATE creature_template SET ScriptName='mob_enchanted_elemental' WHERE entry=21
 UPDATE creature_template SET ScriptName='mob_tainted_elemental' WHERE entry=22009;
 UPDATE creature_template SET ScriptName='mob_toxic_sporebat' WHERE entry=22140;
 UPDATE creature_template SET ScriptName='mob_shield_generator_channel' WHERE entry=19870;
-
+/* The Lurker Below event */
+UPDATE gameobject_template SET ScriptName='go_strange_pool' WHERE entry=184956;
+UPDATE creature_template SET ScriptName='boss_the_lurker_below' WHERE entry=21217;
 
 /* CRYSTALSONG FOREST */
 
@@ -648,9 +652,11 @@ UPDATE creature_template SET ScriptName='npc_00x09hl' WHERE entry=7806;
 UPDATE creature_template SET ScriptName='npc_rinji' WHERE entry=7780;
 
 /* HOWLING FJORD */
+UPDATE creature_template SET ScriptName='npc_daegarn' WHERE entry=24151;
 UPDATE creature_template SET ScriptName='npc_deathstalker_razael' WHERE entry=23998;
 UPDATE creature_template SET ScriptName='npc_dark_ranger_lyana' WHERE entry=23778;
 UPDATE creature_template SET ScriptName='npc_mcgoyver' WHERE entry=24040;
+UPDATE creature_template SET ScriptName='npc_silvermoon_harry' WHERE entry=24539;
 
 /*  */
 /* ICECROWN CITADEL */
@@ -814,6 +820,7 @@ UPDATE creature_template SET ScriptName='npc_commander_dawnforge' WHERE entry=19
 UPDATE creature_template SET ScriptName='npc_protectorate_nether_drake' WHERE entry=20903;
 UPDATE creature_template SET ScriptName='npc_veronia' WHERE entry=20162;
 UPDATE creature_template SET ScriptName='npc_bessy' WHERE entry=20415;
+UPDATE creature_template SET ScriptName='npc_maxx_a_million' WHERE entry=19589;
 
 /*  */
 /* THE NEXUS */
@@ -943,6 +950,8 @@ UPDATE creature_template SET ScriptName='npc_shattrathflaskvendors' WHERE entry 
 UPDATE creature_template SET ScriptName='npc_zephyr' WHERE entry=25967;
 
 /* SHOLAZAR BASIN */
+UPDATE creature_template SET ScriptName='npc_injured_rainspeaker' WHERE entry=28217;
+UPDATE creature_template SET ScriptName='npc_mosswalker_victim' WHERE entry=28113;
 UPDATE creature_template SET ScriptName='npc_vekjik' WHERE entry=28315;
 
 /* SILITHUS */
@@ -1262,6 +1271,11 @@ UPDATE creature_template SET ScriptName='npc_gurgthock' WHERE entry=30007;
 
 
 /* ZUL'FARRAK */
+UPDATE instance_template SET ScriptName='instance_zulfarrak' WHERE map=209;
+DELETE FROM scripted_event_id WHERE id=2488;
+INSERT INTO scripted_event_id VALUES (2488,'event_go_zulfarrak_gong');
+DELETE FROM scripted_areatrigger WHERE entry=1447;
+INSERT INTO scripted_areatrigger VALUES (1447,'at_zulfarrak');
 UPDATE creature_template SET ScriptName='npc_sergeant_bly' WHERE entry=7604;
 UPDATE creature_template SET ScriptName='npc_weegli_blastfuse' WHERE entry=7607;
 

@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/eastern_kingdoms/stratholme
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-26T08:32:59.352529Z
-1806
+2010-11-17T17:48:27.052520Z
+1884
 nofantasy
 
 
@@ -372,10 +372,10 @@ file
 
 
 
-2010-11-04T18:34:11.421875Z
-bc119fed3567dd9674f4ac1c3d843580
-2010-08-26T08:32:59.352529Z
-1806
+2010-11-21T11:20:48.562500Z
+700bc543d47364c99d37d780e1017ca0
+2010-11-17T17:48:27.052520Z
+1884
 nofantasy
 has-props
 
@@ -398,7 +398,7 @@ has-props
 
 
 
-18523
+19402
 
 stratholme.h
 file
@@ -406,11 +406,11 @@ file
 
 
 
-2010-11-04T18:34:11.468750Z
-fc8450f252a1572f43e32ea990874501
-2010-08-21T16:37:34.930548Z
-1784
-deverend
+2010-11-21T11:20:48.671875Z
+378e1d5a129eb6e399a28cfa631f7076
+2010-11-17T08:40:27.262051Z
+1880
+nofantasy
 has-props
 
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-4160
+4102
 
 boss_maleki_the_pallid.cpp
 file

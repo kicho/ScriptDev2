@@ -1,5 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svnroot/scriptdev2/!svn/ver/1447/scripts/northrend/crusaders_coliseum/trial_of_the_champion
+/svnroot/scriptdev2/!svn/ver/1867/scripts/northrend/crusaders_coliseum/trial_of_the_champion
+END
+instance_trial_of_the_champion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/scriptdev2/!svn/ver/1867/scripts/northrend/crusaders_coliseum/trial_of_the_champion/instance_trial_of_the_champion.cpp
+END
+boss_grand_champions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/scriptdev2/!svn/ver/1867/scripts/northrend/crusaders_coliseum/trial_of_the_champion/boss_grand_champions.cpp
+END
+trial_of_the_champion.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/scriptdev2/!svn/ver/1867/scripts/northrend/crusaders_coliseum/trial_of_the_champion/trial_of_the_champion.h
+END
+trial_of_the_champion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/scriptdev2/!svn/ver/1867/scripts/northrend/crusaders_coliseum/trial_of_the_champion/trial_of_the_champion.cpp
 END

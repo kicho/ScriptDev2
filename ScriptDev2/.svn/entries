@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-11-04T12:44:24.560288Z
-1861
+2010-11-21T08:42:46.240736Z
+1886
 nofantasy
 has-props
 
@@ -25,9 +25,6 @@ has-props
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
-
-VC80
-dir
 
 scriptdev2.conf.dist.in
 file
@@ -63,6 +60,9 @@ has-props
 
 681
 
+VC80
+dir
+
 VC90
 dir
 
@@ -72,10 +72,10 @@ dir
 system
 dir
 
-scripts
+patches
 dir
 
-patches
+scripts
 dir
 
 docs
@@ -83,40 +83,6 @@ dir
 
 VC100
 dir
-
-ScriptMgr.cpp
-file
-
-
-
-
-2010-11-04T18:35:25.000000Z
-2caa4557383c4fe44fa436396944ca8d
-2010-08-27T08:50:12.287922Z
-1809
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16763
 
 config.h
 file
@@ -152,19 +118,16 @@ has-props
 
 1769
 
-sql
-dir
-
-config.h.in
+ScriptMgr.cpp
 file
 
 
 
 
-2010-11-04T18:35:25.031250Z
-f7bc128fbeb903b9fca813ac8bfafd4f
-2009-08-03T12:59:25.920490Z
-1297
+2010-11-21T11:20:58.031250Z
+5c668307bcf82b749bc46e979d738867
+2010-11-21T08:42:46.240736Z
+1886
 nofantasy
 has-props
 
@@ -187,7 +150,44 @@ has-props
 
 
 
-1769
+16616
+
+sql
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2010-11-04T18:35:25.015625Z
+46b39127c800ae9546b0675c7dc36190
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15400
 
 ScriptMgr.h
 file
@@ -223,17 +223,17 @@ has-props
 
 3877
 
-LICENSE.txt
+config.h.in
 file
 
 
 
 
-2010-11-04T18:35:25.015625Z
-46b39127c800ae9546b0675c7dc36190
-2007-05-12T19:27:23.860831Z
-43
-ntsc
+2010-11-04T18:35:25.031250Z
+f7bc128fbeb903b9fca813ac8bfafd4f
+2009-08-03T12:59:25.920490Z
+1297
+nofantasy
 has-props
 
 
@@ -255,7 +255,7 @@ has-props
 
 
 
-15400
+1769
 
 scriptVC80.sln
 file
@@ -365,10 +365,10 @@ file
 
 
 
-2010-11-04T18:35:25.046875Z
-36994842f542b5bea867feadc9d72536
-2010-11-04T08:25:30.344406Z
-1859
+2010-11-21T11:20:58.093750Z
+be0caf960333b8e29f683a9d7cfcd46f
+2010-11-17T09:03:11.475827Z
+1881
 nofantasy
 has-props
 
@@ -391,7 +391,7 @@ has-props
 
 
 
-33421
+33999
 
 base
 dir

@@ -1,7 +1,7 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/ulduar/ulduar
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
@@ -128,40 +128,6 @@ has-props
 
 12616
 
-boss_xt_002.cpp
-file
-
-
-
-
-2010-11-04T18:33:35.531250Z
-baa592f0dc2acdab3b8a770c70f19f64
-2010-11-03T17:06:27.616257Z
-1857
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1604
-
 boss_kologarn.cpp
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 1661
+
+boss_xt_002.cpp
+file
+
+
+
+
+2010-11-04T18:33:35.531250Z
+baa592f0dc2acdab3b8a770c70f19f64
+2010-11-03T17:06:27.616257Z
+1857
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1604
 
 boss_algalon.cpp
 file
@@ -264,40 +264,6 @@ has-props
 
 2014
 
-instance_ulduar.cpp
-file
-
-
-
-
-2010-11-04T18:33:35.562500Z
-5fdf872be4cd46d7d944cd32b54399c5
-2010-09-18T16:03:31.161397Z
-1823
-deverend
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-30907
-
 boss_general_vezax.cpp
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 1565
+
+instance_ulduar.cpp
+file
+
+
+
+
+2010-11-04T18:33:35.562500Z
+5fdf872be4cd46d7d944cd32b54399c5
+2010-09-18T16:03:31.161397Z
+1823
+deverend
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30907
 
 boss_auriaya.cpp
 file
@@ -434,40 +434,6 @@ has-props
 
 2257
 
-boss_razorscale.cpp
-file
-
-
-
-
-2010-11-04T18:33:35.609375Z
-142e7cc6bd39e099bf1a6ef93f2d0000
-2010-11-03T17:06:27.616257Z
-1857
-nofantasy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1506
-
 boss_hodir.cpp
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 1549
+
+boss_razorscale.cpp
+file
+
+
+
+
+2010-11-04T18:33:35.609375Z
+142e7cc6bd39e099bf1a6ef93f2d0000
+2010-11-03T17:06:27.616257Z
+1857
+nofantasy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1506
 
 boss_freya.cpp
 file

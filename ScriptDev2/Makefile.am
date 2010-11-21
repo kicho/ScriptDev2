@@ -310,7 +310,10 @@ scripts/kalimdor/temple_of_ahnqiraj/mob_anubisath_sentinel.cpp \
 scripts/kalimdor/temple_of_ahnqiraj/temple_of_ahnqiraj.h \
 scripts/kalimdor/wailing_caverns/instance_wailing_caverns.cpp \
 scripts/kalimdor/wailing_caverns/wailing_caverns.h \
+scripts/kalimdor/zulfarrak/boss_zumrah.cpp \
+scripts/kalimdor/zulfarrak/instance_zulfarrak.cpp \
 scripts/kalimdor/zulfarrak/zulfarrak.cpp \
+scripts/kalimdor/zulfarrak/zulfarrak.h \
 scripts/northrend/borean_tundra.cpp \
 scripts/northrend/dalaran.cpp \
 scripts/northrend/dragonblight.cpp \
@@ -331,6 +334,10 @@ scripts/northrend/azjol-nerub/azjol-nerub/boss_anubarak.cpp \
 scripts/northrend/azjol-nerub/azjol-nerub/boss_hadronox.cpp \
 scripts/northrend/azjol-nerub/azjol-nerub/boss_krikthir.cpp \
 scripts/northrend/azjol-nerub/azjol-nerub/instance_azjol-nerub.cpp \
+scripts/northrend/crusaders_coliseum/trial_of_the_champion/boss_grand_champions.cpp \
+scripts/northrend/crusaders_coliseum/trial_of_the_champion/instance_trial_of_the_champion.cpp \
+scripts/northrend/crusaders_coliseum/trial_of_the_champion/trial_of_the_champion.cpp \
+scripts/northrend/crusaders_coliseum/trial_of_the_champion/trial_of_the_champion.h \
 scripts/northrend/crusaders_coliseum/trial_of_the_crusader/boss_anubarak_trial.cpp \
 scripts/northrend/crusaders_coliseum/trial_of_the_crusader/boss_faction_champions.cpp \
 scripts/northrend/crusaders_coliseum/trial_of_the_crusader/boss_jaraxxus.cpp \
@@ -489,6 +496,7 @@ scripts/outland/coilfang_reservoir/serpent_shrine/boss_hydross_the_unstable.cpp 
 scripts/outland/coilfang_reservoir/serpent_shrine/boss_lady_vashj.cpp \
 scripts/outland/coilfang_reservoir/serpent_shrine/boss_leotheras_the_blind.cpp \
 scripts/outland/coilfang_reservoir/serpent_shrine/boss_morogrim_tidewalker.cpp \
+scripts/outland/coilfang_reservoir/serpent_shrine/boss_the_lurker_below.cpp \
 scripts/outland/coilfang_reservoir/serpent_shrine/instance_serpent_shrine.cpp \
 scripts/outland/coilfang_reservoir/serpent_shrine/serpent_shrine.h \
 scripts/outland/coilfang_reservoir/steam_vault/boss_hydromancer_thespia.cpp \

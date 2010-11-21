@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/svnroot/scriptdev2/!svn/ver/1852/scripts/outland
+/svnroot/scriptdev2/!svn/ver/1882/scripts/outland
 END
 boss_doomlord_kazzak.cpp
 K 25
@@ -19,19 +19,19 @@ hellfire_peninsula.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/scriptdev2/!svn/ver/1746/scripts/outland/hellfire_peninsula.cpp
+/svnroot/scriptdev2/!svn/ver/1873/scripts/outland/hellfire_peninsula.cpp
 END
 nagrand.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/nagrand.cpp
+/svnroot/scriptdev2/!svn/ver/1874/scripts/outland/nagrand.cpp
 END
 netherstorm.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/netherstorm.cpp
+/svnroot/scriptdev2/!svn/ver/1876/scripts/outland/netherstorm.cpp
 END
 boss_doomwalker.cpp
 K 25
@@ -49,7 +49,7 @@ shattrath_city.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/scriptdev2/!svn/ver/1777/scripts/outland/shattrath_city.cpp
+/svnroot/scriptdev2/!svn/ver/1882/scripts/outland/shattrath_city.cpp
 END
 blades_edge_mountains.cpp
 K 25

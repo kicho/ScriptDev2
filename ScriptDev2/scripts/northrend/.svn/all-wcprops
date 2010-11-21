@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svnroot/scriptdev2/!svn/ver/1861/scripts/northrend
+/svnroot/scriptdev2/!svn/ver/1879/scripts/northrend
 END
 sholazar_basin.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/sholazar_basin.cpp
+/svnroot/scriptdev2/!svn/ver/1875/scripts/northrend/sholazar_basin.cpp
 END
 dalaran.cpp
 K 25
@@ -49,11 +49,11 @@ howling_fjord.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/1537/scripts/northrend/howling_fjord.cpp
+/svnroot/scriptdev2/!svn/ver/1864/scripts/northrend/howling_fjord.cpp
 END
 zuldrak.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/scriptdev2/!svn/ver/1841/scripts/northrend/zuldrak.cpp
+/svnroot/scriptdev2/!svn/ver/1864/scripts/northrend/zuldrak.cpp
 END

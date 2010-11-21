@@ -1,15 +1,15 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/patches/custom
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-10-09T19:37:50.964571Z
-1839
-deverend
+2010-11-19T16:48:36.206658Z
+1885
+nofantasy
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-11-04T18:34:23.312500Z
-f445cc31825619fcd2e11ee150222b01
-2010-10-09T19:37:50.964571Z
-1839
-deverend
+2010-11-21T11:20:50.109375Z
+b23a07bdb34163da35ef51357c96c95f
+2010-11-19T16:48:36.206658Z
+1885
+nofantasy
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-12185
+16294
 

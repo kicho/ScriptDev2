@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/VC100
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-11-04T08:25:30.344406Z
-1859
+2010-11-17T09:03:11.475827Z
+1881
 nofantasy
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-11-04T18:34:23.468750Z
-59436c1274dd15fa7596a40c60902f55
-2010-11-04T08:25:30.344406Z
-1859
+2010-11-21T11:20:50.390625Z
+cfa98dfd3c141bd28b6394747ce24110
+2010-11-17T09:03:11.475827Z
+1881
 nofantasy
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-62896
+63706
 
 100ScriptDev2.vcxproj.filters
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-11-04T18:34:23.484375Z
-34fdebe0ea2a9bcc699c5f4be89a5adb
-2010-11-04T08:25:30.344406Z
-1859
+2010-11-21T11:20:50.421875Z
+29aaa2c72f4f2f553ad1b8fcdc5119a9
+2010-11-17T09:03:11.475827Z
+1881
 nofantasy
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-101073
+102570
 

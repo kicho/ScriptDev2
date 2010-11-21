@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/northrend/crusaders_coliseum/trial_of_the_crusader
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-08-27T23:08:16.222977Z
-1810
+2010-11-13T19:10:29.836875Z
+1868
 nofantasy
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-11-04T18:33:33.765625Z
-bc956afbc87036414e370208a5f0330a
-2010-03-05T22:17:00.424098Z
-1632
-deverend
+2010-11-21T11:20:40.718750Z
+69760b29a884dff0593dbdf65281db04
+2010-11-13T19:10:29.836875Z
+1868
+nofantasy
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2539
+2978
 
 boss_anubarak_trial.cpp
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-11-04T18:33:33.765625Z
-e36516b26df094feb614301c688a57f2
-2010-03-06T08:54:41.790006Z
-1634
+2010-11-21T11:20:40.765625Z
+4a1ce0b2f9de2c707ccc7db6441a0d28
+2010-11-13T19:10:29.836875Z
+1868
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-2180
+2566
 
 trial_of_the_crusader.cpp
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-11-04T18:33:33.781250Z
-41dc438aac2cd929307981f4ce7cb447
-2010-08-27T23:08:16.222977Z
-1810
+2010-11-21T11:20:40.781250Z
+c5f6b00efd0c71c3a3279ec8c40df665
+2010-11-13T19:10:29.836875Z
+1868
 nofantasy
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-2687
+4917
 
 boss_faction_champions.cpp
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-11-04T18:33:33.781250Z
-763777b79ca3d53db73eabb597bd17ee
-2010-03-05T22:17:00.424098Z
-1632
-deverend
+2010-11-21T11:20:40.812500Z
+bd59f2c0644e4e7fe4002cbb96423184
+2010-11-13T19:10:29.836875Z
+1868
+nofantasy
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-999
+1440
 
 boss_northrend_beasts.cpp
 file
@@ -168,11 +168,11 @@ file
 
 
 
-2010-11-04T18:33:33.796875Z
-99b1c31e4ecdc6872b161c3c089a8178
-2010-03-05T22:17:00.424098Z
-1632
-deverend
+2010-11-21T11:20:40.890625Z
+70baaec780995bb2efe08d938bed05bd
+2010-11-13T19:10:29.836875Z
+1868
+nofantasy
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-4908
+5134
 
 boss_jaraxxus.cpp
 file
@@ -202,11 +202,11 @@ file
 
 
 
-2010-11-04T18:33:33.796875Z
-75eaf5ff8cb3e214a3af3b287b24351a
-2010-03-05T23:21:47.029631Z
-1633
-deverend
+2010-11-21T11:20:40.953125Z
+6baadacd55285a7e3d46cf957cec7f50
+2010-11-13T19:10:29.836875Z
+1868
+nofantasy
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-2200
+2639
 
 instance_trial_of_the_crusader.cpp
 file

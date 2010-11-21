@@ -1,13 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/scriptdev2/!svn/ver/1842/scripts/outland/coilfang_reservoir/serpent_shrine
+/svnroot/scriptdev2/!svn/ver/1881/scripts/outland/coilfang_reservoir/serpent_shrine
 END
 boss_hydross_the_unstable.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 113
 /svnroot/scriptdev2/!svn/ver/1683/scripts/outland/coilfang_reservoir/serpent_shrine/boss_hydross_the_unstable.cpp
+END
+boss_the_lurker_below.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/scriptdev2/!svn/ver/1881/scripts/outland/coilfang_reservoir/serpent_shrine/boss_the_lurker_below.cpp
 END
 boss_leotheras_the_blind.cpp
 K 25

@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/system
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-11-04T08:25:30.344406Z
-1859
+2010-11-17T09:03:11.475827Z
+1881
 nofantasy
 
 
@@ -134,10 +134,10 @@ file
 
 
 
-2010-11-04T18:33:27.750000Z
-8bbedefb152e92b57fcfae2420b5bd3d
-2010-11-04T08:25:30.344406Z
-1859
+2010-11-21T11:20:37.156250Z
+a3e03dee4155844a04a7c76c029443fb
+2010-11-17T09:03:11.475827Z
+1881
 nofantasy
 has-props
 
@@ -160,5 +160,5 @@ has-props
 
 
 
-35204
+35358
 

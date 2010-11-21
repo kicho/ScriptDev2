@@ -1,14 +1,14 @@
 10
 
 dir
-1861
+1886
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/world
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2010-10-17T13:41:40.937838Z
-1844
+2010-11-16T12:30:27.003309Z
+1878
 nofantasy
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-11-04T18:33:48.843750Z
-474838cd9b23199a7ae930c5741120bb
-2010-08-28T07:42:48.335059Z
-1814
+2010-11-21T11:20:45.390625Z
+a26889947ec67db0bafaf94bb7a395bb
+2010-11-07T11:46:17.498987Z
+1863
 nofantasy
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-8688
+9712
 
 mob_generic_creature.cpp
 file
@@ -270,10 +270,10 @@ file
 
 
 
-2010-11-04T18:33:48.890625Z
-32e80dc57d477bb5b9837b0b995c0431
-2010-10-17T11:44:52.379995Z
-1843
+2010-11-21T11:20:45.546875Z
+c11b7f32c043fa9d83ff426876b950b5
+2010-11-16T12:30:27.003309Z
+1878
 nofantasy
 has-props
 
@@ -296,7 +296,7 @@ has-props
 
 
 
-24777
+27414
 
 boss_ysondre.cpp
 file
